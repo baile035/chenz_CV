@@ -16,7 +16,7 @@ author_profile: true
 <p><b style="line-height:50%"> Web: <a href="http://nhpcc.szu.edu.cn/zhouchi/">http://nhpcc.szu.edu.cn/zhouchi/ </a> </b></p>
 </html>
 
-<p><b style="line-height:50%"> Email: <a href="2022001087@email.szu.edu.cn">2022001087@email.szu.edu.cn </a></b> </p>
+<p><b style="line-height:50%"> Email:Email: <a href="chenz@scut.edu.cn">chenz@scut.edu.cn</a></b> </p>
 
 <p><b style="line-height:50%"> Phone: +86   </b></p>
 
