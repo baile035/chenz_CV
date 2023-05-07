@@ -18,8 +18,8 @@ redirect_from:
 ><p><b style="line-height:50%"> Web: <a href="https://www.astri.org/:">https://www.astri.org/</a> </b></p>
 ><p><b style="line-height:50%"> Email: <a href="mailto:chenz@scut.edu.cn">chenz@scut.edu.cn</a></b> </p>
 ><p><b style="line-height:50%"> Phone: +86  </b></p>
-><p><b width="50%" style="line-height:50%"> Address: N701, Electronics Building,Shenzhen University South Campus, </b> </p>
-><p><b width="50%" style="line-height:50%">3688 Nanhai Road, Nanshan District, Shenzhen, Guangdong, 518060, China.  </b> </p>
+><p><b width="50%" style="line-height:50%"> Address: N701, Electronics Building, CityU South Campus, </b> </p>
+><p><b width="50%" style="line-height:50%">3688 Nanhai Road, Nanshan District, Guangdong, 518060, China.  </b> </p>
 
 Bio
 ----------
