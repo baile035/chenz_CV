@@ -10,9 +10,9 @@ redirect_from:
 
 ***
 <html>
-<p><b style="line-height:50%"> Ph.D, Associate Professor </b> </p>
+<p><b style="line-height:50%"> Ph.D, Associate Professor, IEEE Senior Member </b> </p>
 <p><b style="line-height:50%"><a href="http://ceie.szu.edu.cn/">College of Electronics and Information Engineering, Shenzhen University</a></b></p>
-<p><b style="line-height:50%"><a href="http://www.msp-lab.net/">Institute of multi-dimensional signal processing(Shenzhen)</a></b></p>  
+<p><b style="line-height:50%"><a href="http:// ">Institute of multi-dimensional signal processing(Shenzhen)</a></b></p>  
 </html>
 
 ><p><b style="line-height:50%"> Web: <a href="http://ceie.szu.edu.cn/:">http://ceie.szu.edu.cn/</a> </b></p>
