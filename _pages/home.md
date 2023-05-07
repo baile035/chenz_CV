@@ -8,12 +8,13 @@ author_profile: true
 
 ***
 
-<html>
+<html>[
+](https://baile035.github.io/chenz_CV/)
 <p><b style="line-height:50%"> Ph.D, Associate Professor. </b> </p>
 
 <p><b style="line-height:50%"><a href="http://ceie.szu.edu.cn/">College of Electronics and Information Engineering, Shenzhen University.</a></b></p>
 
-<p><b style="line-height:50%"> Web: <a href="http://nhpcc.szu.edu.cn/zhouchi/">http://nhpcc.szu.edu.cn/zhouchi/ </a> </b></p>
+<p><b style="line-height:50%"> Web: <a href="http://baile035.github.io/chenz_CV/">https://baile035.github.io/chenz_CV/ </a> </b></p>
 </html>
 
 <p><b style="line-height:50%"> Email:Email: <a href="chenz@scut.edu.cn">chenz@scut.edu.cn</a></b> </p>
