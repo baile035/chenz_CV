@@ -12,7 +12,7 @@ Research Awards
 -->
 
 **Best Reviewers Award, Neurocomputing 2018**
-> The award was given to 20 reviewers out of more than 2,600 reviewers during the Neurocomputing 2018.
+> The award was given to 20 reviewers out of more than 2,000 reviewers during the Neurocomputing 2018.
 
 **ACM SIGHPC China Rising Star, 2021**
 > The ACM China Rising Star Award recognizes the research achievements of young scholars in the field of Computer Science in China. I'm one of the three recipients of this award in the subfield of High Performance Computing.
@@ -29,9 +29,6 @@ Research Awards
 **IEEE Outstanding Leadership Award, 2019**
 > This award is to recognize my role as Program Co-Chair of the 5th IEEE International Conference on Smart Data (SmartData-2019), Atlanta, USA, 14-17 July 2019.
 
-**Shenzhen Overseas High-Caliber Personnel (Level C), 2018**
-> The Shenzhen Overseas High-Caliber Personnel is awarded by the Shenzhen Government to individuals (155 recipients in 2018) who have obtained outstanding achievements in their domain. It is one of the most prestigious talents program in China.
-
 **Inria Postdoctoral Research Fellowship, 2016**
 
 **Spotlight Article of the issue, 2014**
@@ -40,10 +37,6 @@ Research Awards
 **Excellent Service Award, 2014**
 > This award is to recognize my role as Local Co-Chair of the IEEE 6th International Conference on Cloud Computing Technology and Science (CloudCom), Singapore, Dec. 2014.
 
-**Best PhD Consortium Award, 2014**
-> For the presentation: ”Simplified Resource Provisioning for Workflows in IaaS Clouds”, IEEE CloudCom, Singapore, Dec. 2014.
-
-**Research Scholarship, Nanyang Technological University, 2011**
 
 Advised Student Honors
 ---
