@@ -28,23 +28,13 @@ Storage, and Analysis (**SC 2021**), Nov 2021, St. Louis, Missouri, USA.<br>
 Performance Computing, Data, and Analytics (**HiPC 2020**), Dec 2020.<br>
 **Posters and Demo Co-Chair** of IEEE International Conference on Distributed Computing Systems (**ICDCS 2020**), July 2020, Singapore.<br>
 **Program Co-Chair** of IEEE International Conference on Smart Data (**SmartData-2019**), July 2019, Atlanta, Georgia, USA.<br>
-**Track Co-Chair** of Big Data Applics. and Experiences Track, IEEE BigData Congress 2018, July 2018, San Francisco, CA, USA.<br>
-**Local Co-Chair**, IEEE International Conference on Cloud Computing Technology and Science (**CloudCom 2014**), Dec 2014, Singapore.
+**The workshop Chair** of the 8th IEEE/CIC International Conference on Communications in China.
 
 Membership in Technical Program Committees
 ---
 
-> USENIX Conference on File and Storage Technologies (**FAST**): 2022.<br>
-IEEE International Conference on Distributed Computing Systems (**ICDCS**): 2021, 2022.<br>
-IEEE/ACM International Conference for High Performance Computing, Networking, Storage, and Analysis (**SC**): 2018 (Posters), 2019 (Panels), 2020 (Papers).<br>
-ACM International Symposium on High-Performance Parallel and Distributed Computing (**HPDC**): 2018 (Posters), 2021 (Papers).<br>
-IEEE International Conference on High Performance Computing, Data, and Analytics (**HiPC**): 2021.<br>
-IEEE International Conference on Cluster Computing (**Cluster**): 2020, 2021.<br>
-IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (**CCGrid**): 2017, 2019, 2020, 2021.<br>
-IEEE International Conference on Big Data (**BigData**): 2018, 2019, 2020, 2021.<br>
-ACM International Conference on Information and Knowledge Management (**CIKM**): 2019, 2020, 2021.<br>
-International Conference on High Performance Computing in Asia Pacific Region (**HPCAsia**): 2019, 2020, 2021.<br>
-Supercomputing Frontiers Asia (**SCFA**): 2020.<br>
+> IEEE International Conference on Information Communication and Signal Processing (**ICICSP**) :2022.<br>
+IEEE 22nd International Conference on Communication Technology (**ICCT**): 2022.<br>
 Supercomputing Asia (**SCA**): 2018, 2020.<br>
 IFIP International Conference on Network and Parallel Computing (**NPC**): 2018, 2019.<br>
 IEEE International Conference on Data Science and Systems (**DSS**): 2019.<br>
@@ -53,9 +43,7 @@ The International Conference on Progress in Informatics and Computing (**PIC**):
 The IEEE International Conference on Parallel and Distributed Systems (**ICPADS**): 2017, 2018.<br>
 The International Workshop on Programming Models and Applications for Multicores and Manycores (**PMAM@PPoPP**): 2020, 2021.<br>
 The International Parallel Data Systems Workshop (**PDSW@SC**): 2019, 2020.<br>
-The International workshop on the Convergence of Extreme Scale Computing and Big Data Analysis (**CEBDA@CCGrid**): 2018, 2019.<br>
-**HPC China**: 2018, 2019, 2021.<br>
-**Women in HPC** Workshop in conjunction with HPC China 2015.
+
 
 
 Invited Reviewer for Journals
