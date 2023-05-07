@@ -4,7 +4,7 @@ title: "Publications"
 permalink: publications/
 author_profile: true
 ---
-My publication list: <a href="https://">Zhen Chen</a>, <a href="https://0-scholar-google-com.brum.beds.ac.uk/citations?hl=fr&user=9noX9qoAAAAJ">Google scholar</a>.
+My publication list: <a href="https://dblp.org/pid/11/1266-10.html"> Entry@DBLP</a>, <a href="https://0-scholar-google-com.brum.beds.ac.uk/citations?hl=fr&user=9noX9qoAAAAJ">Google scholar</a>.
 
 Journal Articles
 ----------
@@ -64,11 +64,12 @@ Journal Articles
 [`BIBTEX`](https://pxl0912.github.io/files/
 面向多无人机携能网络的轨迹与资源规划算法.bib).
 
+<!--
 **[J11]** 王瑜新, 章秀银, 徐汗青, 唐杰, **陈真**. 6G需求、愿景与应用场景探讨[J]. **电子技术应用**,2021,47(3):1-4,17.
 [`PDF`](https://pxl0912.github.io/files/6G需求、愿景与应用场景探讨.pdf).
 [`IEEE`](https://xueshu.baidu.com/usercenter/paper/show?paperid=1d7c0gr0w93t0gy06e5a0cw0gn711748).
 [`BIBTEX`](https://pxl0912.github.io/files/6G需求、愿景与应用场景探讨.bib).
-
+-->
 
 
 Conference Papers
