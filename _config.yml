@@ -11,9 +11,9 @@ title                    : "Zhen Chen"
 title_separator          : "-"
 name                     : &name "Zhen Chen"
 description              : &description "personal description"
-url                      : https://pxl0912.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://baile035.github.io/chenz_CV/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "pxl0912/pxl0912.github.io"
+repository               : "baile035/chenz_CV"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Zhen Chen"
   avatar           : "ChenZhen.png"
-  bio              : "Ph.D, Associate Professor of CEIE Shenzhen University"
-  location         : "Shenzhen, China"
+  bio              : "Ph.D, Associate Professor, ASTRI"
+  location         : "HongKong, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "pxl0912"
+  github           : "baile035"
   google_plus      :
   keybase          :
   instagram        :

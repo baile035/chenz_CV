@@ -9,7 +9,7 @@ My publication list: <a href="https://">Zhen Chen</a>, <a href="https://">Google
 Journal Articles
 ----------
 **[J1]** **Z. Chen(陈真)**, J. Tang*, X. Y. Zhang, Q. Wu, Y. Wang, D. K. C. So, S. Jin and K. -K. Wong," Offset Learning Based Channel Estimation for Intelligent Reflecting Surface-Assisted Indoor Communication," in **IEEE Journal of Selected Topics in Signal Processing**, vol. 16, no. 1, pp. 41-55, Jan. 2022. 
-[`PDF`](https://pxl0912.github.io/files/Offset_Learning_Based_Channel_Estimation_for_Intelligent_Reflecting_Surface-Assisted_Indoor_Communication.pdf).
+[`PDF`](https://github.com/baile035/chenz_CV/files/Offset_Learning_Based_Channel_Estimation_for_Intelligent_Reflecting_Surface-Assisted_Indoor_Communication.pdf).
 [`IEEE`](https://ieeexplore.ieee.org/document/9622178).
 [`BIBTEX`](https://pxl0912.github.io/files/Offset_Learning_Based_Channel_Estimation_for_Intelligent_Reflecting_Surface-Assisted_Indoor_Communication.bib).
 
