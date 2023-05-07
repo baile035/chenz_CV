@@ -42,31 +42,35 @@ Journal Articles
 [`IEEE`](https://ieeexplore.ieee.org/abstract/document/9521836/).
 [`BIBTEX`](https://baile035.github.io/chenz_CV/files/Hybrid_Evolutionary-Based_Sparse_Channel_Estimation_for_IRS-Assisted_mmWave_MIMO_Systems.bib).
 
+**[J7]** **Z. Chen(陈真)**, J. Tang*, X. Y. Zhang, D. K. C. So, S. Jin and K. -K. Wong, " Reconfigurable Intelligent Surface Assisted MEC Offloading in NOMA-Enabled IoT Networks," in **IEEE Transactions on Communications**, vol. 21, no. 3, pp. 1586-1601, March 2022.
 
-**[J7]** Z. Su, W. Feng, J. Tang*, **Z. Chen(陈真)**, N Zhao and K. -K. Wong, "Energy-Efficiency Optimization for D2D Communications Underlaying UAV-Assisted Industrial IoT Networks With SWIPT," in **IEEE Internet of Things Journal**, vol. 10, no. 3, pp. 1990-2002, 1 Feb.1, 2023.
+
+
+**[J8]** Z. Su, W. Feng, J. Tang*, **Z. Chen(陈真)**, N Zhao and K. -K. Wong, "Energy-Efficiency Optimization for D2D Communications Underlaying UAV-Assisted Industrial IoT Networks With SWIPT," in **IEEE Internet of Things Journal**, vol. 10, no. 3, pp. 1990-2002, 1 Feb.1, 2023.
 [`PDF`](https://baile035.github.io/chenz_CV/files/Energy-Efficiency_Optimization_for_D2D_Communications_Underlaying_UAV-Assisted_Industrial_IoT_Networks_With_SWIPT.pdf).
 [`IEEE`](https://ieeexplore.ieee.org/document/9676698).
 [`BIBTEX`](https://baile035.github.io/chenz_CV/files/Energy-Efficiency_Optimization_for_D2D_Communications_Underlaying_UAV-Assisted_Industrial_IoT_Networks_With_SWIPT.bib).
 
 
-**[J8]** Y. Song, J. Tang*, C. Lin, W. Feng, **Z. Chen(陈真)** and K. -K. Wong, "Energy Efficiency Optimization for PSOAM Mode-Groups Based MIMO-NOMA Systems," in **IEEE Transactions on Communications**, vol. 70, no. 8, pp. 5679-5692, Aug. 2022.
+**[J9]** Y. Song, J. Tang*, C. Lin, W. Feng, **Z. Chen(陈真)** and K. -K. Wong, "Energy Efficiency Optimization for PSOAM Mode-Groups Based MIMO-NOMA Systems," in **IEEE Transactions on Communications**, vol. 70, no. 8, pp. 5679-5692, Aug. 2022.
 [`PDF`](https://baile035.github.io/chenz_CV/files/Energy_Efficiency_Optimization_for_PSOAM_Mode-Groups_Based_MIMO-NOMA_Systems.pdf).
 [`IEEE`](https://ieeexplore.ieee.org/document/9791313).
 [`BIBTEX`](https://baile035.github.io/chenz_CV/files/Energy_Efficiency_Optimization_for_PSOAM_Mode-Groups_Based_MIMO-NOMA_Systems.bib).
 
-**[J9]** **陈真**, 唐杰, 杜晓宇, 章秀银. 无人机辅助多用户毫米波MIMO系统的透镜波束预编码技术研究[J]. **电子与信息学报**, 2022, 44(3): 844-851.
+**[J10]** **陈真**, 唐杰, 杜晓宇, 章秀银. 无人机辅助多用户毫米波MIMO系统的透镜波束预编码技术研究[J]. **电子与信息学报**, 2022, 44(3): 844-851.
 [`PDF`](https://baile035.github.io/chenz_CV/files/无人机辅助多用户毫米波MIMO系统的透镜波束预编码技术研究.pdf).
 [`Link`](https://jeit.ac.cn/cn/article/doi/10.11999/JEIT211194?viewType=HTML).
 [`BIBTEX`](https://baile035.github.io/chenz_CV/files/无人机辅助多用户毫米波MIMO系统的透镜波束预编码技术研究.bib).
 
+
+<!--
 **[J10]** 田霖, 苏智杰, 冯婉媚, **陈真**, 唐杰, 周恩丞. 面向多无人机携能网络的轨迹与资源规划算法[J]. **西安电子科技大学学报**,2021,48(06):115-122.
 [`PDF`](https://baile035.github.io/chenz_CV/files/
 面向多无人机携能网络的轨迹与资源规划算法.pdf).
 [`Link`](https://journal.xidian.edu.cn/xdxb/CN/10.19665/j.issn1001-2400.2021.06.014).
-[`BIBTEX`](https://baile035.github.io/chenz_CV/files/
-面向多无人机携能网络的轨迹与资源规划算法.bib).
+[`BIBTEX`](https://baile035.github.io/chenz_CV/files/面向多无人机携能网络的轨迹与资源规划算法.bib).
 
-<!--
+
 **[J11]** 王瑜新, 章秀银, 徐汗青, 唐杰, **陈真**. 6G需求、愿景与应用场景探讨[J]. **电子技术应用**,2021,47(3):1-4,17.
 [`PDF`](https://pxl0912.github.io/files/6G需求、愿景与应用场景探讨.pdf).
 [`IEEE`](https://xueshu.baidu.com/usercenter/paper/show?paperid=1d7c0gr0w93t0gy06e5a0cw0gn711748).
