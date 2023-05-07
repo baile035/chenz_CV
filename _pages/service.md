@@ -9,7 +9,10 @@ I have been regularly participating in conference/workshop organization, program
 
 Journal Editorships
 ---
-> **Editor** of Wireless Communications and Mobile Computing (SCI Index, IF=2.336), Started in 2023.<br>
+https://www.hindawi.com/journals/wcmc/editors/
+
+
+> **<a href="http://ceie.szu.edu.cn/">EditorT</a>** of Wireless Communications and Mobile Computing (SCI Index, IF=2.336), Started in 2023.<br>
 <!--
 > **Associate Editor** of IEEE Transactions on Parallel and Distributed Systems (SCI Index, IF=2.69), Started in Jan 2022.<br>
 -->
