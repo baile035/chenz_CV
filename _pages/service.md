@@ -9,7 +9,7 @@ I have been regularly participating in conference/workshop organization, program
 
 Journal Editorships
 ---
-> **Editor** of Wireless Communications and Mobile Computing (SCI Index, IF=7.19), Started in 2021.<br>
+> **Editor** of Wireless Communications and Mobile Computing (SCI Index, IF=2.336), Started in 2023.<br>
 <!--
 > **Associate Editor** of IEEE Transactions on Parallel and Distributed Systems (SCI Index, IF=2.69), Started in Jan 2022.<br>
 -->
@@ -61,11 +61,11 @@ The International workshop on the Convergence of Extreme Scale Computing and Big
 Invited Reviewer for Journals
 -----------
  
-> IEEE Transactions on Parallel and Distributed Systems (**TPDS**)<br>
-IEEE Transactions on Cloud Computing (**TCC**)<br>
-IEEE Transactions on Big Data (**TBD**)<br>
-IEEE Transactions on Knowledge and Data Engineering (**TKDE**)<br>
-IEEE Transactions on Network Science and Engineering (**TNSE**)<br>
+> IEEE IEEE Transactions on Wireless Communications (**TWC**)<br>
+IEEE IEEE Transactions on Communications (**TCOM**)<br>
+IEEE Journal of Selected Topics in Signal Processing (**JSTSP**)<br>
+IEEE Transactions on Signal Processing (**TSP**)<br>
+IEEE IEEE Wireless Communications Letters (**WCL**)<br>
 ACM Transactions on Internet Technology (**TOIT**)<br>
 ACM Transactions on Autonomous and Adaptive Systems (**TAAS**)<br>
 ACM Computing Surveys (**CSUR**)<br>
