@@ -7,8 +7,12 @@ author_profile: true
 
 Research Awards
 ---
+<!--
 **<a href="https://www.cikm2021.org/programme/best-reviewers">Best Reviewers Award</a>, CIKM 2021**
-> The award was given to 30 reviewers out of more than 1,600 reviewers during the conference of CIKM 2021.
+-->
+
+**Best Reviewers Award, Neurocomputing 2018**
+> The award was given to 20 reviewers out of more than 2,600 reviewers during the Neurocomputing 2018.
 
 **ACM SIGHPC China Rising Star, 2021**
 > The ACM China Rising Star Award recognizes the research achievements of young scholars in the field of Computer Science in China. I'm one of the three recipients of this award in the subfield of High Performance Computing.
