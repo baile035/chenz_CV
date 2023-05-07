@@ -8,8 +8,7 @@ author_profile: true
 
 ***
 
-<html>[
-](https://baile035.github.io/chenz_CV/)
+<html>
 <p><b style="line-height:50%"> Ph.D, Associate Professor. </b> </p>
 
 <p><b style="line-height:50%"><a href="http://ceie.szu.edu.cn/">College of Electronics and Information Engineering, Shenzhen University.</a></b></p>
