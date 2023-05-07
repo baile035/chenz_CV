@@ -55,6 +55,8 @@ IEEE Journal of Selected Topics in Signal Processing (**JSTSP**)<br>
 IEEE Transactions on Signal Processing (**TSP**)<br>
 IEEE Transactions on Industrial Informatics (**TII**)<br>
 IEEE Transactions on Vehicular Technology (**TVT**)<br>
+IEEE Internet of Things Journal (**IOTJ**)<br>
+IEEE Transactions on Green Communications and Networking (**TGCN**)<br>
 IEEE IEEE Wireless Communications Letters (**WCL**)<br>
 Elsevier Signal Processing (**SP**)<br>
 Elsevier Knowledge-Based Systems (**KBS**)<br>
