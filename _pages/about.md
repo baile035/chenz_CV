@@ -11,7 +11,7 @@ redirect_from:
 ***
 <html>
 <p><b style="line-height:50%"> Ph.D, Associate Professor, IEEE Senior Member </b> </p>
-<p><b style="line-height:50%"><a href="http://ceie.szu.edu.cn/">College of Electronics and Information Engineering, Shenzhen University</a></b></p>
+<p><b style="line-height:50%"><a href="http://ceie.szu.edu.cn/">School of Automation Science and Engineering, SCUT</a></b></p>
 <p><b style="line-height:50%"><a href="http:// ">Institute of multi-dimensional signal processing(Shenzhen)</a></b></p>  
 </html>
 
@@ -23,11 +23,11 @@ redirect_from:
 
 Bio
 ----------
-
+<p align="justify">
 Zhen Chen received the M.S. degree in Software Engineering form Xiamen University in 2012 and the PhD degree in electronic engineering from South China University of Technology, Guangzhou, China, in 2019. From 2020 to 2023, he was a Research Fellow with the Hong Kong Applied Science and Technology Research Institute, Hong Kong. He is now an associate professor at the School of Electronic and Information Engineering, South China University of Technology, China.
 
 His current research interests include array signal processing, Integrated radar and communication, channel estimation, UAV communications and 5G/6G networks. He has served as Technical Program Committee (TPC) Co-chair/member and Session Chair for a number of conferences. He was the Exemplary Reviewer of several IEEE journals. He was a co-recipient of EAI AICON 2021, ICICSP 2022 Best Paper Awards. He is currently serving as an Editor for Wireless Communications and Mobile Computing.
-
+</p>
 
 
 <!--
@@ -37,7 +37,7 @@ His current research interests include array signal processing, Integrated radar
 
 Recent Highlights
 ----------
-* **[Paper]** 模板：2022: Our paper on privacy-preserving graph processing in geo-distributed datacenters is accepted by **<font color=orange>ACM SoCC</font>**.
+* **[Paper]** 2022: Our paper on privacy-preserving graph processing in geo-distributed datacenters is accepted by **<font color=orange>ACM SoCC</font>**.
 
 * **[Paper]** 2022: Our paper on adaptive graph partitioning in geo-distributed datacenters is accepted by **<font color=orange>IEEE ICDE</font>**.
 
