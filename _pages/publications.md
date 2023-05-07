@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: publications/
 author_profile: true
 ---
-My publication list: <a href="https://">Zhen Chen</a>, <a href="https://">Google scholar</a>.
+My publication list: <a href="https://">Zhen Chen</a>, <a href="https://0-scholar-google-com.brum.beds.ac.uk/citations?hl=fr&user=9noX9qoAAAAJ">Google scholar</a>.
 
 Journal Articles
 ----------
