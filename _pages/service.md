@@ -65,15 +65,12 @@ Invited Reviewer for Journals
 IEEE IEEE Transactions on Communications (**TCOM**)<br>
 IEEE Journal of Selected Topics in Signal Processing (**JSTSP**)<br>
 IEEE Transactions on Signal Processing (**TSP**)<br>
+IEEE Transactions on Industrial Informatics (**TII**)<br>
+IEEE Transactions on Vehicular Technology (**TVT**)<br>
 IEEE IEEE Wireless Communications Letters (**WCL**)<br>
-ACM Transactions on Internet Technology (**TOIT**)<br>
-ACM Transactions on Autonomous and Adaptive Systems (**TAAS**)<br>
-ACM Computing Surveys (**CSUR**)<br>
-Elsevier Journal of Parallel and Distributed Computing (**JPDC**)<br>
-Future Generation Computer Systems (**FGCS**)<br>
-Springer Journal of Supercomputing (**SUPE**)<br>
-International Journal of High Performance Computing and Networking (**IJHPCN**)<br>
-Concurrency and Computation: Practice and Experience (**CCPE**)
+Elsevier Signal Processing (**SP**)<br>
+Elsevier Knowledge-Based Systems (**KBS**)<br>
+
 
 
 External/Invited Academic Services
