@@ -76,6 +76,10 @@ Journal Articles
 
 **[J17]** **Z. Chen(陈真)**, Z. Zhou, A. Saifullah, “Joint Low-rank Prior and Difference of Gaussian Filter for Magnetic Resonance Image Denoising,” **Medical & Biological Eng & Computing**, vol.59, no.10, pp. 607-620, 2021.
 
+**[J18]** X Qiu, **Z Chen***, S Adnan, W. He, "Improved MR Image Denoising via Low-rank Approximation and Laplacian-of-Gaussian edge detector," **IET Image Processing**, vol.14, no.12, pp.2791-2798, 2020.
+
+**[J19]** Y. Fu, T. Zhu, Y. Xiang, **Z. Chen** and L. Cai, "Stability Analysis of ℓ0,∞-Norm Based Convolutional Sparse Coding Using Stripe Coherence," in **IEEE Transactions on Signal Processing**, vol. 68, pp. 5810-5823, 2020.
+
 
 <!--
 **[J10]** 田霖, 苏智杰, 冯婉媚, **陈真**, 唐杰, 周恩丞. 面向多无人机携能网络的轨迹与资源规划算法[J]. **西安电子科技大学学报**,2021,48(06):115-122.
