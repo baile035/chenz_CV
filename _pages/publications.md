@@ -80,6 +80,7 @@ Journal Articles
 **[J18]** X Qiu, **Z Chen***, S Adnan, W. He, "Improved MR Image Denoising via Low-rank Approximation and Laplacian-of-Gaussian edge detector," **IET Image Processing**, vol.14, no.12, pp.2791-2798, 2020.
 
 **[J19]** Y. Fu, T. Zhu, Y. Xiang, **Z. Chen** and L. Cai, "Stability Analysis of ℓ0,∞-Norm Based Convolutional Sparse Coding Using Stripe Coherence," in **IEEE Transactions on Signal Processing**, vol. 68, pp. 5810-5823, 2020.
+[`IEEE`](https://ieeexplore.ieee.org/document/9201519/).
 
 **[J20]** R. Hu, Y. Fu, **Z. Chen**, J. Xu and J. Tang, "Robust DOA Estimation via Sparse Signal Reconstruction with Impulsive Noise," in **IEEE Communications Letters**, vol. 21, no. 6, pp. 1333-1336, June 2017
 
