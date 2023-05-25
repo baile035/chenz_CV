@@ -66,6 +66,12 @@ Journal Articles
 
 **[J12]** **Z. Chen(陈真)**, C. Huang and S. Lin, “A new sparse representation framework for compressed sensing MRI,” Knowledge-Based Systems Online. DOI: https://doi.org/10.1016/ knosys.2019.104969.
 
+**[J13]** **Z. Chen(陈真)**, Y. Xiang， P. Zhang and J. Hu, “Robust compressed sensing MRI based on combined nonconvex regularization,” Knowledge-Based Systems, 2023.
+
+**[J14]** **Z. Chen(陈真)**, Y Fu, Y Xiang, Y Zhu, “A novel MR image denoising via LRMA and NLSS,” Signal processing, vol, 185, pp.101-109, 2022. 
+
+**[J15]** **Z. Chen(陈真)**, J Hu, X Qiu, W. Jiang, “Kernel ridge regression-based TV regularization for motion correction of dynamic MRI,” Signal Processing, 2022, 197: 108-119.
+
 <!--
 **[J10]** 田霖, 苏智杰, 冯婉媚, **陈真**, 唐杰, 周恩丞. 面向多无人机携能网络的轨迹与资源规划算法[J]. **西安电子科技大学学报**,2021,48(06):115-122.
 [`PDF`](https://baile035.github.io/chenz_CV/files/
