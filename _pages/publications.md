@@ -80,6 +80,19 @@ Journal Articles
 
 **[J19]** Y. Fu, T. Zhu, Y. Xiang, **Z. Chen** and L. Cai, "Stability Analysis of ℓ0,∞-Norm Based Convolutional Sparse Coding Using Stripe Coherence," in **IEEE Transactions on Signal Processing**, vol. 68, pp. 5810-5823, 2020.
 
+**[J20]** R. Hu, Y. Fu, **Z. Chen**, J. Xu and J. Tang, "Robust DOA Estimation via Sparse Signal Reconstruction with Impulsive Noise," in **IEEE Communications Letters**, vol. 21, no. 6, pp. 1333-1336, June 2017
+
+**[J21]** R. Hu, Y. Fu, **Z. Chen**, Y. Xiang and R. Rong, "Robust Sparse Signal Recovery in the Presence of the S αS Noise," in **IEEE Signal Processing Letters**, vol. 23, no. 11, pp. 1687-1691, Nov. 2016.
+
+**[J22]** Y Fu, J Xu, Y Xiang, **Z Chen**, et al, "Multi-scale patches based image denoising using weighted nuclear norm minimization," **IET Image Processing**, 2020, 14(11).
+
+**[J23]** R Hu, Y. Fu, **Z. Chen**, Y. Xiang and J. Tang, "A Lorentzian IHT for Complex-Valued Sparse Signal Recovery," **Circuits, Systems, and Signal Processing**, 2018, 37(2):862-872.
+
+**[J24]** Y. Fu, Z. Chen, Y. Xiang, J. Xu and R. Rong, "An Accelerated MMP With a Pruning Tree Strategy," in IEEE Access, vol. 7, pp. 27115-27123, 2019.
+
+**[J25]** J. Huang, J. Tang, A. Shojaeifard, Z Chen, J. Hu, D. K. C. So and K. -K. Wong., "Drone Mobile Networks: Performance Analysis Under 3D Tractable Mobility Models," in **IEEE Access**, vol. 9, pp. 90555-90567, 2021.
+
+
 
 <!--
 **[J10]** 田霖, 苏智杰, 冯婉媚, **陈真**, 唐杰, 周恩丞. 面向多无人机携能网络的轨迹与资源规划算法[J]. **西安电子科技大学学报**,2021,48(06):115-122.
