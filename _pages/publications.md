@@ -74,6 +74,7 @@ Journal Articles
 **[J15]** **Z. Chen(陈真)**, J Hu, X Qiu, W. Jiang, “Kernel ridge regression-based TV regularization for motion correction of dynamic MRI,” **Signal Processing**, 2022, 197: 108-119.
 
 **[J16]** **Z. Chen(陈真)**, Y. Fu, Y. Xiang, J. Xu, R. Rong, “A Novel Iterative Shrinkage Algorithm for CS-MRI via Adaptive Regularization,” **IEEE Signal Processing Letters**, vol.24, no.10, pp.1443-1447, 2017.
+[`IEEE`](https://ieeexplore.ieee.org/document/8002663/).
 
 **[J17]** **Z. Chen(陈真)**, Z. Zhou, A. Saifullah, “Joint Low-rank Prior and Difference of Gaussian Filter for Magnetic Resonance Image Denoising,” **Medical & Biological Eng & Computing**, vol.59, no.10, pp. 607-620, 2021.
 
@@ -85,12 +86,13 @@ Journal Articles
 **[J20]** R. Hu, Y. Fu, **Z. Chen**, J. Xu and J. Tang, "Robust DOA Estimation via Sparse Signal Reconstruction with Impulsive Noise," in **IEEE Communications Letters**, vol. 21, no. 6, pp. 1333-1336, June 2017
 
 **[J21]** R. Hu, Y. Fu, **Z. Chen**, Y. Xiang and R. Rong, "Robust Sparse Signal Recovery in the Presence of the S αS Noise," in **IEEE Signal Processing Letters**, vol. 23, no. 11, pp. 1687-1691, Nov. 2016.
+[`IEEE`](https://ieeexplore.ieee.org/document/7582482).
 
 **[J22]** Y Fu, J Xu, Y Xiang, **Z Chen**, et al, "Multi-scale patches based image denoising using weighted nuclear norm minimization," **IET Image Processing**, 2020, 14(11).
 
 **[J23]** R Hu, Y. Fu, **Z. Chen**, Y. Xiang and J. Tang, "A Lorentzian IHT for Complex-Valued Sparse Signal Recovery," **Circuits, Systems, and Signal Processing**, 2018, 37(2):862-872.
 
-**[J24]** Y. Fu, Z. Chen, Y. Xiang, J. Xu and R. Rong, "An Accelerated MMP With a Pruning Tree Strategy," in IEEE Access, vol. 7, pp. 27115-27123, 2019.
+**[J24]** Y. Fu, Z. Chen, Y. Xiang, J. Xu and R. Rong, "An Accelerated MMP With a Pruning Tree Strategy," in **IEEE Access**, vol. 7, pp. 27115-27123, 2019.
 
 **[J25]** J. Huang, J. Tang, A. Shojaeifard, Z Chen, J. Hu, D. K. C. So and K. -K. Wong., "Drone Mobile Networks: Performance Analysis Under 3D Tractable Mobility Models," in **IEEE Access**, vol. 9, pp. 90555-90567, 2021.
 
