@@ -83,7 +83,8 @@ Journal Articles
 **[J19]** Y. Fu, T. Zhu, Y. Xiang, **Z. Chen** and L. Cai, "Stability Analysis of ℓ0,∞-Norm Based Convolutional Sparse Coding Using Stripe Coherence," in **IEEE Transactions on Signal Processing**, vol. 68, pp. 5810-5823, 2020.
 [`IEEE`](https://ieeexplore.ieee.org/document/9201519/).
 
-**[J20]** R. Hu, Y. Fu, **Z. Chen**, J. Xu and J. Tang, "Robust DOA Estimation via Sparse Signal Reconstruction with Impulsive Noise," in **IEEE Communications Letters**, vol. 21, no. 6, pp. 1333-1336, June 2017
+**[J20]** R. Hu, Y. Fu, **Z. Chen**, J. Xu and J. Tang, "Robust DOA Estimation via Sparse Signal Reconstruction with Impulsive Noise," in **IEEE Communications Letters**, vol. 21, no. 6, pp. 1333-1336, June 2017.
+[`IEEE`](https://ieeexplore.ieee.org/document/7865989/).
 
 **[J21]** R. Hu, Y. Fu, **Z. Chen**, Y. Xiang and R. Rong, "Robust Sparse Signal Recovery in the Presence of the S αS Noise," in **IEEE Signal Processing Letters**, vol. 23, no. 11, pp. 1687-1691, Nov. 2016.
 [`IEEE`](https://ieeexplore.ieee.org/document/7582482).
@@ -93,8 +94,10 @@ Journal Articles
 **[J23]** R Hu, Y. Fu, **Z. Chen**, Y. Xiang and J. Tang, "A Lorentzian IHT for Complex-Valued Sparse Signal Recovery," **Circuits, Systems, and Signal Processing**, 2018, 37(2):862-872.
 
 **[J24]** Y. Fu, Z. Chen, Y. Xiang, J. Xu and R. Rong, "An Accelerated MMP With a Pruning Tree Strategy," in **IEEE Access**, vol. 7, pp. 27115-27123, 2019.
+[`IEEE`](https://ieeexplore.ieee.org/document/8630946/).
 
 **[J25]** J. Huang, J. Tang, A. Shojaeifard, Z Chen, J. Hu, D. K. C. So and K. -K. Wong., "Drone Mobile Networks: Performance Analysis Under 3D Tractable Mobility Models," in **IEEE Access**, vol. 9, pp. 90555-90567, 2021.
+[`IEEE`](https://ieeexplore.ieee.org/document/9454462/).
 
 
 
