@@ -11,7 +11,7 @@ author_profile: true
 <html>
 <p><b style="line-height:50%"> Ph.D, Associate Professor. </b> </p>
 
-<p><b style="line-height:50%"><a href="http://ceie.szu.edu.cn/">College of Electronics and Information Engineering, Shenzhen University.</a></b></p>
+<p><b style="line-height:50%"><a href="https://www2.scut.edu.cn/ee/">College of Electronics and Information Engineering, South China University of Technology.</a></b></p>
 
 <p><b style="line-height:50%"> Web: <a href="http://baile035.github.io/chenz_CV/">https://baile035.github.io/chenz_CV/ </a> </b></p>
 </html>
@@ -20,8 +20,10 @@ author_profile: true
 
 <p><b style="line-height:50%"> Phone: +86   </b></p>
 
+<!--
 <p><b width="50%" style="line-height:50%"> Address: N701, Electronics Building,Shenzhen University South Campus, </b> </p>
 <p><b width="50%" style="line-height:50%">3688 Nanhai Road, Nanshan District, Shenzhen, Guangdong, 518060, China.  </b> </p>
+-->
 
 ***
 I mainly research on intelligent reflective surface-assisted wireless communication technology, and my research results are fully integrated with 3G PP protocol framework, and some of them have been already applied in ZTE Corporation, domestic famous medical universities and affiliated hospitals, and written into relevant industry standards with certain importance and advancement. In addition, a US patent for 5G NR PRS positioning has been assigned (I ranked first) and successfully applied to Ericsson. In terms of projects, he has presided over 1 NSF youth fund, 3 provincial projects, and 2 open projects of State Key Laboratory; in terms of papers, he has published more than 30 SCI/EI papers, including 13 SCI papers as first author or correspondence author, 10 SCI papers above the second region of CAS, 1 highly cited/hot cited paper, and 2 invited presentations in international conferences. He has been invited to present at 2 international conferences. Currently, he is the reviewer of several international academic journals, as well as the TPC Co-Chair, TPC Member and Session Chair of international conferences; he has applied for 10 Chinese invention patents, 2 US invention patents, 1 Singapore invention patent and 1 software copyright. He received the best award of "5G Internet of Things" from ASTRI-HK Polytechnic University (ranked first).
