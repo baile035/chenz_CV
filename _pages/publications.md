@@ -62,6 +62,9 @@ Journal Articles
 [`Link`](https://jeit.ac.cn/cn/article/doi/10.11999/JEIT211194?viewType=HTML).
 [`BIBTEX`](https://baile035.github.io/chenz_CV/files/无人机辅助多用户毫米波MIMO系统的透镜波束预编码技术研究.bib).
 
+**[J11]** **Z. Chen(陈真)**, Y. Fu, Y. Xiang, J. Xu R. Rong, “A Novel Low-rank Model for MRI Using the Redundant Wavelet Tight Frame,” Neurocomputing, vol.289, pp.180-187, 2018.
+
+**[J12]** **Z. Chen(陈真)**, C. Huang and S. Lin, “A new sparse representation framework for compressed sensing MRI,” Knowledge-Based Systems Online. DOI: https://doi.org/10.1016/ knosys.2019.104969.
 
 <!--
 **[J10]** 田霖, 苏智杰, 冯婉媚, **陈真**, 唐杰, 周恩丞. 面向多无人机携能网络的轨迹与资源规划算法[J]. **西安电子科技大学学报**,2021,48(06):115-122.
