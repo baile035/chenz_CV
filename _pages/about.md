@@ -12,13 +12,17 @@ redirect_from:
 <html>
 <p><b style="line-height:50%"> Ph.D, Associate Professor, IEEE Senior Member </b> </p>
 <p><b style="line-height:50%"><a href="https://www2.scut.edu.cn/ee/">School of Automation Science and Engineering, SCUT</a></b></p>
-<p><b style="line-height:50%"><a href="http:// ">Institute of multi-dimensional signal processing(Shenzhen)</a></b></p>  
+ 
+<!--
+<p><b style="line-height:50%"><a href="http:// ">Institute of multi-dimensional signal processing(Shenzhen)</a></b></p> 
+-->
+
+  
 </html>
 
 ><p><b style="line-height:50%"> Web: <a href="https://www.astri.org/:">https://www.astri.org/</a> </b></p>
 ><p><b style="line-height:50%"> Email: <a href="mailto:chenz@scut.edu.cn">chenz@scut.edu.cn</a></b> </p>
 ><p><b style="line-height:50%"> Phone: +86  </b></p>
-><p><b width="50%" style="line-height:50%"> Address: N701, Electronics Building, CityU South Campus, </b> </p>
 ><p><b width="50%" style="line-height:50%"> 381 Wushan Road, Tianhe District, Guangzhou, Guangdong, 510461, China.  </b> </p>
 
 Bio
