@@ -20,7 +20,7 @@ program at CSSE, Shenzhen University, 2020.
 
 New course material development:
 
-* **Parallel Computing**: build new labs (18 hours) and lecture slides.
+* **Principles of wireless communication**: build new labs (18 hours) and lecture slides.
 
 * **Cloud Computing Engineering**: build new labs (36 hours) and lecture slides, developed for the AI
 specialization program.
@@ -30,10 +30,10 @@ Courses Taught
 
 **Undergraduate Courses:**
 
-* **Parallel Computing** (2018 - 2019 Spring, 2019 - 2020 Fall)
-> Typical class size: 30 – 60, designed for the special class in high performance computing.
+* **Principles of wireless communication** (2018 - 2019 Spring, 2019 - 2020 Fall)
+> Typical class size: 30 – 60, designed for the special class in high performance wireless communication.
 >
-> Textbook: Parallel Computing - Structures, Algorithms, Programming, CHEN Guoliang.
+> Textbook: Principles of wireless communication - Structures, Algorithms, Programming, CHEN Zhen.
 
 * **Computer Systems (II)** (2019 - 2020 Spring, 2020 - 2021 Spring)
 > Typical class size: 30 – 60, designed for year 2 CS students.
