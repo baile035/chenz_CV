@@ -16,7 +16,7 @@ Journal Editorships
 <!--
 > **Associate Editor** of IEEE Transactions on Parallel and Distributed Systems (SCI Index, IF=2.69), Started in Jan 2022.<br>
 -->
-> **Guest Editor** of Concurrency and Computation: Practice and Experience (SCI Index, IF=1.83), Started in 2022.
+> **Guest Editor** of Concurrency and Computation: Practice and Experience (SCI Index, IF=1.83), Started in 2022.<br>
 > **<a href="http://wkdxb.wust.edu.cn/wkd_zr/ch/reader/view_news.aspx?id=20230831144843001/">青年编委</a>**  ， 武汉科技大学学报, Started in 2023.
 
 Conference Organizing Committee Memer
