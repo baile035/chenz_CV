@@ -47,7 +47,7 @@ Recent Highlights
 
 * **[Paper]** 2022: Our paper on RIS-Assisted UAV-Enabled Wireless Powered Communication Network is accepted by **<font color=orange>IEEE ICICSP 2023</font>**.
 
-* **[Award]** I have received the **ACM SIGHPC China Rising Star** award for the year of 2021!
+* **[Award]** I have received the **IEEE ICICSP 2023** award for the year of 2023!
 
 * **[Award]** I'm extremely honored to have received the **IEEE-CS TCHPC Early Career Researchers Award for Excellence in High Performance Computing**!
 
