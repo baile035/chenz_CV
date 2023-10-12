@@ -28,11 +28,11 @@ redirect_from:
 Bio
 ----------
 <p align="justify">
-Zhen Chen received the M.S. degree in Software Engineering form Xiamen University in 2012 and the PhD degree in electronic engineering from South China University of Technology, Guangzhou, China, in 2019. From 2020 to 2023, he was a Research Fellow with the Hong Kong Applied Science and Technology Research Institute, Hong Kong. He is now an associate professor at the School of Electronic and Information Engineering, South China University of Technology, China.
+Zhen Chen received the M.S. degree in Software Engineering form Xiamen University in 2012 and the PhD degree in electronic engineering from South China University of Technology, Guangzhou, China, in 2019. From 2020 to 2023, he was a Research Fellow with the Hong Kong Applied Science and Technology Research Institute, Hong Kong. He is now an associate professor at the School of Electronic and Information Engineering, Shenzhen University, China.
 </p>
   
 <p align="justify">
-His current research interests include array signal processing, Integrated radar and communication, channel estimation, UAV communications and 5G/6G networks. He has served as Technical Program Committee (TPC) Co-chair/member and Session Chair for a number of conferences. He was the Exemplary Reviewer of several IEEE journals. He was a co-recipient of EAI AICON 2021, ICICSP 2022 Best Paper Awards. He is currently serving as an Editor for Wireless Communications and Mobile Computing.
+His current research interests include array signal processing, Integrated radar and communication, channel estimation, UAV communications and 5G/6G networks. He has served as Technical Program Committee (TPC) Co-chair/member and Session Chair for a number of conferences. He was the Exemplary Reviewer of several IEEE journals. He was a co-recipient of EAI AICON 2021, ICICSP 2022, ICICSP2023 Best Paper Awards. He is currently serving as an Editor for Wireless Communications and Mobile Computing.
 </p>
 
 
@@ -43,9 +43,9 @@ His current research interests include array signal processing, Integrated radar
 
 Recent Highlights
 ----------
-* **[Paper]** 2022: Our paper on privacy-preserving graph processing in geo-distributed datacenters is accepted by **<font color=orange>ACM SoCC</font>**.
+* **[Paper]** 2022: Our paper on Nonlinear Channel Estimation and Signal Detection for Quantized OFDM Systems is accepted by **<font color=orange>IEEE WCL</font>**.
 
-* **[Paper]** 2022: Our paper on adaptive graph partitioning in geo-distributed datacenters is accepted by **<font color=orange>IEEE ICDE</font>**.
+* **[Paper]** 2022: Our paper on RIS-Assisted UAV-Enabled Wireless Powered Communication Network is accepted by **<font color=orange>IEEE ICICSP 2023</font>**.
 
 * **[Award]** I have received the **ACM SIGHPC China Rising Star** award for the year of 2021!
 
