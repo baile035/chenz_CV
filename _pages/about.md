@@ -21,7 +21,7 @@ redirect_from:
   
 </html>
 
-><p><b style="line-height:50%"> Web: <a href="http://ceie.szu.edu.cn/en/index.htm/:">http://ceie.szu.edu.cn/en/</a> </b></p>
+><p><b style="line-height:50%"> Web: <a href="https://www2.scut.edu.cn/ee/">https://www2.scut.edu.cn/ee/</a> </b></p>
 ><p><b style="line-height:50%"> Email: <a href="mailto:chenz@scut.edu.cn">chenz@scut.edu.cn</a></b> </p>
 ><p><b style="line-height:50%"> Phone: +86  </b></p>
 ><p><b width="50%" style="line-height:50%">School of Electronic and Information Engineering, Zhixin Building, Yuehai Campus, Guangdong, 510461, China.  </b> </p>
