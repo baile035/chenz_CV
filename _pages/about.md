@@ -11,6 +11,7 @@ redirect_from:
 ***
 <html>
 <p><b style="line-height:50%"> Ph.D, Associate Professor, IEEE Senior Member </b> </p>
+<p><b style="line-height:50%"> Deputy Director, The Power System Communication Laboratory of GuangDong </b> </p>
 <p><b style="line-height:50%"><a href="https://www.szu.edu.cn/">School of Electronic and Information Engineering, Shaw Building, Wushan Campus</a></b></p>
  
 <!--
