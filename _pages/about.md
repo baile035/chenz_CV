@@ -11,7 +11,7 @@ redirect_from:
 ***
 <html>
 <p><b style="line-height:50%"> Ph.D, Associate Professor, IEEE Senior Member </b> </p>
-<p><b style="line-height:50%"><a href="https://www.szu.edu.cn/">School of Electronic and Information Engineering, Zhixin Building, Yuehai Campus</a></b></p>
+<p><b style="line-height:50%"><a href="https://www.szu.edu.cn/">School of Electronic and Information Engineering, Shaw Building, Wushan Campus</a></b></p>
  
 <!--
 <p><b style="line-height:50%"><a href="http:// ">Institute of multi-dimensional signal processing(Shenzhen)</a></b></p> 
