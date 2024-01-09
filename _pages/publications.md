@@ -40,7 +40,7 @@ Journal Articles
 **[J6]** **Z. Chen(陈真)**, J. Tang*, X. Y. Zhang, D. K. C. So, S. Jin and K. -K. Wong, " Hybrid Evolutionary-Based Sparse Channel Estimation for IRS-Assisted mmWave MIMO Systems," in **IEEE Transactions on Wireless Communications**, vol. 21, no. 3, pp. 1586-1601, March 2022.
 [`PDF`](https://baile035.github.io/chenz_CV/files/Hybrid_Evolutionary-Based_Sparse_Channel_Estimation_for_IRS-Assisted_mmWave_MIMO_Systems.pdf).
 [`IEEE`](https://ieeexplore.ieee.org/abstract/document/9521836/).
-[`BIBTEX`](https://baile035.github.io/chenz_CV/files/Hybrid_Evolutionary-Based_Sparse_Channel_Estimation_for_IRS-Assisted_mmWave_MIMO_Systems.bib).
+[`BIBTEX`](https://baile035.github.io/chenz_CV/files/Hybrid_Evolutionary-Based_Sparse_Channel_Estimation_for_IRS-Assisted_mmWave_MIMO_Systems.bib).  [ESI Highly Cited Paper]
 
 **[J7]** **Z. Chen(陈真)**, J. Tang*, M. Wen, Z. Li, J. Yang, X. Y. Zhang and K. -K. Wong, " Reconfigurable Intelligent Surface Assisted MEC Offloading in NOMA-Enabled IoT Networks," in **IEEE Transactions on Communications**, 2023. (early access)
 [`IEEE`](https://ieeexplore.ieee.org/document/10128149/).
