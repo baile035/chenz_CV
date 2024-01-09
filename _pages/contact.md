@@ -8,7 +8,7 @@ author_profile: true
 > <p><b style="line-height:50%"> Email: <a href="mailto:chenz@szu.edu.cn">chenz@szu.edu.cn</a> </b> </p> 
 ><p><b style="line-height:50%"> Phone: +86 13430267471</b></p>
 ><p><b width="50%" style="line-height:50%">924, Electronics Building, Shenzhen University, </b> </p>
-<!-- ><p><b width="50%" style="line-height:50%"> 401B, Electronics Building,South China University of Technology Wushan Campus, </b> </p>
+<!-- ><p><b width="50%" style="line-height:50%"> 401B , Electronics Building, Wushan Campus,South China University of Technology, China </b> </p>
 ><p><b width="50%" style="line-height:50%"> 381 Wushan Road, Tianhe District, Guangzhou, Guangdong, 510641, China.  </b> </p>
 --!>
 
