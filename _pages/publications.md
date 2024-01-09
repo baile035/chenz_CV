@@ -13,9 +13,6 @@ Journal Articles
 [`IEEE`](https://ieeexplore.ieee.org/document/9622178).
 [`BIBTEX`](https://baile035.github.io/chenz_CV/files/Offset_Learning_Based_Channel_Estimation_for_Intelligent_Reflecting_Surface-Assisted_Indoor_Communication.bib).
 
-
-
-
 **[J2]** **Z. Chen(陈真)**, N. Zhao, D. K. C. So, J. Tang*, X. Y. Zhang and K. -K. Wong "Joint altitude and hybrid beamspace precoding optimization for UAV-enabled multiuser mmWave MIMO System," in **IEEE Transactions on Vehicular Technology**, vol. 71, no. 2, pp. 1713-1725, Feb. 2022.
 [`PDF`](https://baile035.github.io/chenz_CV/files/Joint_Altitude_and_Hybrid_Beamspace_Precoding_Optimization_for_UAV-Enabled_Multiuser_mmWave_MIMO_System.pdf).
 [`IEEE`](https://ieeexplore.ieee.org/document/9648018).
@@ -40,7 +37,7 @@ Journal Articles
 **[J6]** **Z. Chen(陈真)**, J. Tang*, X. Y. Zhang, D. K. C. So, S. Jin and K. -K. Wong, " Hybrid Evolutionary-Based Sparse Channel Estimation for IRS-Assisted mmWave MIMO Systems," in **IEEE Transactions on Wireless Communications**, vol. 21, no. 3, pp. 1586-1601, March 2022.
 [`PDF`](https://baile035.github.io/chenz_CV/files/Hybrid_Evolutionary-Based_Sparse_Channel_Estimation_for_IRS-Assisted_mmWave_MIMO_Systems.pdf).
 [`IEEE`](https://ieeexplore.ieee.org/abstract/document/9521836/).
-[`BIBTEX`](https://baile035.github.io/chenz_CV/files/Hybrid_Evolutionary-Based_Sparse_Channel_Estimation_for_IRS-Assisted_mmWave_MIMO_Systems.bib).  **<font color=red>[ESI Highly Cited Paper]</font>**
+[`BIBTEX`](https://baile035.github.io/chenz_CV/files/Hybrid_Evolutionary-Based_Sparse_Channel_Estimation_for_IRS-Assisted_mmWave_MIMO_Systems.bib).  **<font color=orange>[ESI Highly Cited Paper]</font>**
 
 **[J7]** **Z. Chen(陈真)**, J. Tang*, M. Wen, Z. Li, J. Yang, X. Y. Zhang and K. -K. Wong, " Reconfigurable Intelligent Surface Assisted MEC Offloading in NOMA-Enabled IoT Networks," in **IEEE Transactions on Communications**, 2023. (early access)
 [`IEEE`](https://ieeexplore.ieee.org/document/10128149/).
