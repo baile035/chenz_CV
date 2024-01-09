@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhen Chen"
   avatar           : "ChenZhen.png"
-  bio              : "Ph.D, Associate Professor, ASTRI"
+  bio              : "Ph.D, Associate Professor, CityU"
   location         : "HongKong, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/"
-  email            : "2022001087@email.szu.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=9noX9qoAAAAJ&hl=zh-CN"
+  email            : "chenz.scut@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
