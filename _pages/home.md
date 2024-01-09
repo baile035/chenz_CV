@@ -16,13 +16,13 @@ author_profile: true
 <p><b style="line-height:50%"> Web: <a href="http://baile035.github.io/chenz_CV/">https://baile035.github.io/chenz_CV/ </a> </b></p>
 </html>
 
-<p><b style="line-height:50%"> Email:Email: <a href="chenz@szu.edu.cn">chenz@szu.edu.cn</a></b> </p>
+<p><b style="line-height:50%"> Email:<a href="chenz@scut.edu.cn">chenz@scut.edu.cn</a></b> </p>
 
 <p><b style="line-height:50%"> Phone: +86   </b></p>
 
 <!--
-<p><b width="50%" style="line-height:50%"> Address: N701, Electronics Building, Shenzhen University South Campus, </b> </p>
-<!--<p><b width="50%" style="line-height:50%">3688 Nanhai Road, Nanshan District, Shenzhen, Guangdong, 518060, China.  </b> </p>
+<p><b width="50%" style="line-height:50%"> Address:School of Electronic and Information Engineering, Shaw Building, Wushan Campus,SCUT, 510461, China. </b> </p>
+<!--<p><b width="50%" style="line-height:50%">3688 Nanhai Road, Nanshan District, Guangzhou, Guangdong, 520461, China.  </b> </p>
 --!>
 -->
 
