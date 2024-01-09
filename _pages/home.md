@@ -11,7 +11,7 @@ author_profile: true
 <html>
 <p><b style="line-height:50%"> Ph.D, Associate Professor. </b> </p>
 
-<p><b style="line-height:50%"><a href="https://www2.scut.edu.cn/ee/">College of Electronics and Information Engineering, Shenzhen University.</a></b></p>
+<p><b style="line-height:50%"><a href="https://www2.scut.edu.cn/ee/">College of Electronics and Information Engineering, South China University of Technology.</a></b></p>
 
 <p><b style="line-height:50%"> Web: <a href="http://baile035.github.io/chenz_CV/">https://baile035.github.io/chenz_CV/ </a> </b></p>
 </html>
