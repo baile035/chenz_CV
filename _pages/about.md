@@ -12,7 +12,7 @@ redirect_from:
 <html>
 <p><b style="line-height:50%"> Ph.D, Associate Professor, IEEE Senior Member </b> </p>
 <p><b style="line-height:50%"> Deputy Director, The Power System Communication Laboratory of GuangDong </b> </p>
-<p><b style="line-height:50%"><a href="https://www.szu.edu.cn/">School of Electronic and Information Engineering, Shaw Building, Wushan Campus</a></b></p>
+<p><b style="line-height:50%"><a href="https://www.scut.edu.cn/">School of Electronic and Information Engineering, Shaw Building, Wushan Campus,SCUT, 510461, China.</a></b></p>
  
 <!--
 <p><b style="line-height:50%"><a href="http:// ">Institute of multi-dimensional signal processing(Shenzhen)</a></b></p> 
@@ -23,9 +23,10 @@ redirect_from:
 
 ><p><b style="line-height:50%"> Web: <a href="https://www2.scut.edu.cn/ee/">https://www2.scut.edu.cn/ee/</a> </b></p>
 ><p><b style="line-height:50%"> Email: <a href="mailto:chenz@scut.edu.cn">chenz@scut.edu.cn</a></b> </p>
-><p><b style="line-height:50%"> Phone: +86  </b></p>
-><p><b width="50%" style="line-height:50%">School of Electronic and Information Engineering, Zhixin Building, Yuehai Campus, Guangdong, 510461, China.  </b> </p>
-
+><p><b style="line-height:50%"> Phone: +86 13430267471 </b></p>
+<!--
+><p><b width="50%" style="line-height:50%">School of Electronic and Information Engineering, Shaw Building, Wushan Campus, SCUT, 510461, China.  </b> </p>
+-->
 Bio
 ----------
 <p align="justify">
