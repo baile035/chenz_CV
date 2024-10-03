@@ -49,9 +49,13 @@ He has served as Technical Program Committee (TPC) Co-chair/Session Chair for a 
 
 Recent Highlights
 ----------
+* **[Paper]** 2024: Our paper on Security Enhancement for RIS-Aided MEC Systems with Deep Reinforcement Learning is accepted by **<font color=orange>IEEE TCOM</font>**.
+
+* **[Program Co-Chair]** Invited to serve as Program Co-Chair of **<font color=orange>IEEE ICICSP 2024</font>**.
+
 * **[Paper]** 2022: Our paper on Nonlinear Channel Estimation and Signal Detection for Quantized OFDM Systems is accepted by **<font color=orange>IEEE WCL</font>**.
 
-* **[Paper]** 2022: Our paper on RIS-Assisted UAV-Enabled Wireless Powered Communication Network is accepted by **<font color=orange>IEEE ICICSP 2023</font>**.
+* **[Paper]** 2023: Our paper on RIS-Assisted UAV-Enabled Wireless Powered Communication Network is accepted by **<font color=orange>IEEE ICICSP 2023</font>**.
 
 * **[Award]** I have received the **IEEE ICICSP 2023** award for the year of 2023!
 
@@ -59,16 +63,8 @@ Recent Highlights
 
 * **[Track Vice-Chair]** Invited to serve as Track Vice-Chair of the Machine Learning with HPC Track for **<font color=orange>SC 2022</font>**.
 
-* **[Student Program Co-Chair]** Invited to serve as Student Program Co-Chair of **<font color=orange>ICPP 2022</font>**.
+* **[Program Committee]** Invited to serve on the Program Committee of **<font color=orange>IEEE ICICSP 2024</font>** .
 
-* **[Paper]** 2021: Our paper on Taming System Dynamics on Resource Optimization for Data Processing Workflows: A Probabilistic
-Approach is accepted by **<font color=orange>IEEE TPDS</font>**.
-
-* **[Program Committee]** Invited to serve on the Program Committee of **<font color=orange>USENIX FAST 2022</font>** .
-
-* **[Program Co-Chair]** Invited to serve as Program Co-Chair of **<font color=orange>PDSW@SC2021</font>**.
-
-* **[Panels Vice-Chair]** Invited to serve as a Vice-Chair for the Panels of **<font color=orange>SC 2021</font>**.
 
 <!---
   Selected Awards
