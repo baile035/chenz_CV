@@ -8,6 +8,16 @@ My publication list: <a href="https://dblp.org/pid/11/1266-10.html"> Entry@DBLP<
 
 Journal Articles
 ----------
+
+**[J30]**T. Liu, X. Yang, H. Jiang, H. Zhang and **Z. Chen**, "Reconfigurable Intelligent Surface Enhanced Massive Connectivity With Massive MIMO," in IEEE Transactions on Communications, vol. 71, no. 12, pp. 7441-7454, Dec. 2023.
+[`IEEE`](https://ieeexplore.ieee.org/document/10288535).
+
+**[J29]** T. Liu, H. Jiang, Z. Yang and Z. Chen, "Reconfigurable Intelligent Surface Enhanced Massive IoT Systems With Nonlinear Measurements," in IEEE Wireless Communications Letters, vol. 12, no. 11, pp. 1976-1980, Nov. 2023.
+[`IEEE`](https://ieeexplore.ieee.org/document/10242367).
+
+**[J28]** T. Liu, H. Jiang, **Z. Chen**, H. Zhang, X. Yang and F. Shu, "Nonlinear Channel Estimation and Signal Detection for Quantized OFDM System," in IEEE Communications Letters, vol. 27, no. 10, pp. 2772-2776, Oct. 2023.
+[`IEEE`](https://ieeexplore.ieee.org/document/10210058).
+
 **[J27]** **Z. Chen**, J. Tang, L. Huang, Z. -Q. He, K. -K. Wong and J. Wang, "Robust Target Positioning for Reconfigurable Intelligent Surface Assisted MIMO Radar Systems," in **IEEE Transactions on Vehicular Technology**, vol. 72, no. 11, pp. 15098-15102, Nov. 2023.
 [`IEEE`](https://ieeexplore.ieee.org/document/10149128).
 
