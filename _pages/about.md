@@ -38,7 +38,7 @@ Zhen Chen received the M.S. degree in Software Engineering form Xiamen Universit
 
   
 <p align="justify">
-His current research interests include array signal processing, Integrated radar and communication, channel estimation, UAV communications and 5G/6G networks. He has served as Technical Program Committee (TPC) Co-chair/member and Session Chair for a number of conferences. He was the Exemplary Reviewer of several IEEE journals. He was a co-recipient of EAI AICON 2021, ICICSP 2022, ICICSP2023 Best Paper Awards. He is currently serving as an Editor for Wireless Communications and Mobile Computing.
+He has served as Technical Program Committee (TPC) Co-chair/Session Chair for a number of conferences. He was the Exemplary Reviewer of several IEEE journals. He was a co-recipient of EAI AICON 2021, IEEE ICICSP 2022, IEEE ICCC 2023, ICICSP 2023, ISCIP 2024 and ICCIA 2024 Best Paper Awards. He has also on the editorial board of several international journals., including Digital Communications and Networks, Elsevier Signal Processing, and IEEE Open Journal of the Communications Society.
 </p>
 
 
