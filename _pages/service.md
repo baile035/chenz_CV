@@ -12,6 +12,7 @@ Journal Editorships
 
 
 
+> **<a href="https://www.keaipublishing.com/en/journals/digital-communications-and-networks/editorial-board/">Editor</a>** of Digital Communications and Networks (SCI Index, IF=7.6), Started in 2023.<br>
 > **<a href="https://www.hindawi.com/journals/wcmc/editors/">Editor</a>** of Wireless Communications and Mobile Computing (SCI Index, IF=2.336), Started in 2023.<br>
 <!--
 > **Associate Editor** of IEEE Transactions on Parallel and Distributed Systems (SCI Index, IF=2.69), Started in Jan 2022.<br>
