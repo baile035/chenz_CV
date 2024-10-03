@@ -10,11 +10,12 @@ redirect_from:
 
 ***
 <html>
-<p><b style="line-height:50%"> Ph.D, Associate Professor, IEEE Senior Member </b> </p>
+<p><b style="line-height:50%"> Ph.D, Research Fellow, IEEE Senior Member, CICE Fellow </b> </p>
 <p><b style="line-height:50%"> Deputy Director, The Power System Communication Laboratory of GuangDong </b> </p>
+<!--
 <p><b style="line-height:50%"><a href="https://www.scut.edu.cn/">School of Electronic and Information Engineering, Shaw Building, Wushan Campus,SCUT, 510461, China.</a></b></p>
  
-<!--
+
 <p><b style="line-height:50%"><a href="http:// ">Institute of multi-dimensional signal processing(Shenzhen)</a></b></p> 
 -->
 
