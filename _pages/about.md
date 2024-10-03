@@ -52,6 +52,7 @@ Recent Highlights
 * **[Paper]** 2024: Our paper on Security Enhancement for RIS-Aided MEC Systems with Deep Reinforcement Learning is accepted by **<font color=orange>IEEE TCOM</font>**.
 
 * **[Program Co-Chair]** Invited to serve as Program Co-Chair of **<font color=orange>IEEE ICICSP 2024</font>**.
+* **[Award]** We have received the **IEEE ICCIA 2024** award for the year of 2024!
 
 * **[Paper]** 2024: Our paper on Physical Layer Security Improvement for Hybrid RIS-assisted MIMO Communications is accepted by **<font color=orange>IEEE CL</font>**. 
 
@@ -59,7 +60,7 @@ Recent Highlights
 
 * **[Paper]** 2023: Our paper on RIS-Assisted UAV-Enabled Wireless Powered Communication Network is accepted by **<font color=orange>IEEE ICICSP 2023</font>**.
 
-* **[Award]** I have received the **IEEE ICICSP 2023** award for the year of 2023!
+* **[Award]** We have received the **IEEE ICICSP 2023** award for the year of 2023!
 
 * **[Award]** I'm extremely honored to have received the **IEEE-CS TCHPC Early Career Researchers Award for Excellence in High Performance Computing**!
 
