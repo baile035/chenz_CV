@@ -10,7 +10,7 @@ redirect_from:
 
 ***
 <html>
-<p><b style="line-height:50%"> Ph.D, CICE Fellow, IEEE Senior Member </b> </p>
+<p><b style="line-height:50%"> Ph.D,  CICE Fellow,  IEEE Senior Member </b> </p>
 <p><b style="line-height:50%"> Deputy Director, The Power System Communication Laboratory of GuangDong </b> </p>
 <!--
 <p><b style="line-height:50%"><a href="https://www.um.edu.mo/">Institute of Microelectronics，University of Macau, China.</a></b></p>
