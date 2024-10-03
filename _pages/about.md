@@ -53,6 +53,8 @@ Recent Highlights
 
 * **[Program Co-Chair]** Invited to serve as Program Co-Chair of **<font color=orange>IEEE ICICSP 2024</font>**.
 
+* **[Paper]** 2024: Our paper on Physical Layer Security Improvement for Hybrid RIS-assisted MIMO Communications is accepted by **<font color=orange>IEEE CL</font>**. 
+
 * **[Paper]** 2022: Our paper on Nonlinear Channel Estimation and Signal Detection for Quantized OFDM Systems is accepted by **<font color=orange>IEEE WCL</font>**.
 
 * **[Paper]** 2023: Our paper on RIS-Assisted UAV-Enabled Wireless Powered Communication Network is accepted by **<font color=orange>IEEE ICICSP 2023</font>**.
@@ -61,7 +63,7 @@ Recent Highlights
 
 * **[Award]** I'm extremely honored to have received the **IEEE-CS TCHPC Early Career Researchers Award for Excellence in High Performance Computing**!
 
-* **[Track Vice-Chair]** Invited to serve as Track Vice-Chair of the Machine Learning with HPC Track for **<font color=orange>SC 2023</font>**.
+* **[Track Vice-Chair]** Invited to serve as Track Vice-Chair of the Machine Learning with HPC Track for **<font color=orange>SSC 2023</font>**.
 
 * **[Program Committee]** Invited to serve on the Program Committee of **<font color=orange>IEEE ICCC 2023</font>** .
 
