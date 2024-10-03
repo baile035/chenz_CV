@@ -8,6 +8,11 @@ My publication list: <a href="https://dblp.org/pid/11/1266-10.html"> Entry@DBLP<
 
 Journal Articles
 ----------
+**[J41]** **Z. Chen**, Y. Guo, P. Zhang, H. Jiang, Y. Xiao and L. Huang, "Physical Layer Security Improvement for Hybrid RIS-assisted MIMO Communications," in IEEE Communications Letters, doi: 10.1109/LCOMM.2024.3427010.
+[`IEEE`](https://ieeexplore.ieee.org/document/10637971).
+
+**[J40]** W. Shi, Y. Liu, **Z. Chen**, "RIS-Empowered V2V Communications: Three-Dimensional Beam Domain Channel Modeling and Analysis," in IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2024.3434568.
+
 **[J39]** M. Fang, J. Li, Y. Liu, **Z. Chen** and X. Y. Zhang, "Performance Analysis of Active Reconfigurable Intelligent Surface-Aided URLLC Systems," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2024.3425477.
 [`IEEE`](https://ieeexplore.ieee.org/document/10591379).
 
