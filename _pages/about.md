@@ -61,9 +61,9 @@ Recent Highlights
 
 * **[Award]** I'm extremely honored to have received the **IEEE-CS TCHPC Early Career Researchers Award for Excellence in High Performance Computing**!
 
-* **[Track Vice-Chair]** Invited to serve as Track Vice-Chair of the Machine Learning with HPC Track for **<font color=orange>SC 2022</font>**.
+* **[Track Vice-Chair]** Invited to serve as Track Vice-Chair of the Machine Learning with HPC Track for **<font color=orange>SC 2023</font>**.
 
-* **[Program Committee]** Invited to serve on the Program Committee of **<font color=orange>IEEE ICICSP 2024</font>** .
+* **[Program Committee]** Invited to serve on the Program Committee of **<font color=orange>IEEE ICCC 2023</font>** .
 
 
 <!---
