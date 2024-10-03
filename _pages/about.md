@@ -23,7 +23,7 @@ redirect_from:
 </html>
 
 ><p><b style="line-height:50%"> Web: <a href="https://www.um.edu.mo/">https://www.um.edu.mo/</a> </b></p>
-><p><b style="line-height:50%"> Email: <a href="mailto:chenz.scut@gmail.com">chenzz@xmu.edu.cn</a></b> </p>
+><p><b style="line-height:50%"> Email: <a href="mailto:chenz.scut@gmail.com">chenz.scut@gmail.com; chenzz@xmu.edu.cn</a></b> </p>
 ><p><b style="line-height:50%"> Phone: +86 13430267471 </b></p>
 <!--
 ><p><b width="50%" style="line-height:50%">School of Electronic and Information Engineering, Shaw Building, Wushan Campus, SCUT, 510461, China.  </b> </p>
