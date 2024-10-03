@@ -8,13 +8,14 @@ My publication list: <a href="https://dblp.org/pid/11/1266-10.html"> Entry@DBLP<
 
 Journal Articles
 ----------
-
+**[J39]** M. Fang, J. Li, Y. Liu, **Z. Chen** and X. Y. Zhang, "Performance Analysis of Active Reconfigurable Intelligent Surface-Aided URLLC Systems," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2024.3425477.
+[`IEEE`](https://ieeexplore.ieee.org/document/10591379).
 
 **[J38]** N. Yang, H. Jiang, D. Guo, Y. Liu, G. Ding, **Z. Chen**, "Proof of Reputation: A Blockchain-based Countermeasure to Defend against Massive SSDF in Cognitive Radio Networks," in IEEE Communications Letters, doi: 10.1109/LCOMM.2024.3419829.
-https://ieeexplore.ieee.org/document/10574820https://ieeexplore.ieee.org/document/10574820)
+[`IEEE`](https://ieeexplore.ieee.org/document/10574820)
 
 **[J37]** L. Zeng, X. Liao, Z. Ma, W. Xie, H. Jiang and **Z. Chen**, "Envelope Level Crossing Rate and Average Fade Duration of Low-Altitude UAV-to-UAV Channels," in IEEE Wireless Communications Letters, vol. 13, no. 8, pp. 2220-2224, Aug. 2024.
-chttps://ieeexplore.ieee.org/document/10543157).
+[`IEEE`](https://ieeexplore.ieee.org/document/10543157).
 
 **[J36]** J. Ye, L. Huang, **Z. Chen**, P. Zhang and M. Rihan, "Unsupervised Learning for Joint Beamforming Design in RIS-Aided ISAC Systems," in IEEE Wireless Communications Letters, vol. 13, no. 8, pp. 2100-2104, Aug. 2024.
 [`IEEE`](https://ieeexplore.ieee.org/document/10533223).
