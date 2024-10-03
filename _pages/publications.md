@@ -8,92 +8,98 @@ My publication list: <a href="https://dblp.org/pid/11/1266-10.html"> Entry@DBLP<
 
 Journal Articles
 ----------
-**[J1]** **Z. Chen(陈真)**, J. Tang*, X. Y. Zhang, Q. Wu, Y. Wang, D. K. C. So, S. Jin and K. -K. Wong," Offset Learning Based Channel Estimation for Intelligent Reflecting Surface-Assisted Indoor Communication," in **IEEE Journal of Selected Topics in Signal Processing**, vol. 16, no. 1, pp. 41-55, Jan. 2022. 
+**[J27]** **Z. Chen**, J. Tang, L. Huang, Z. -Q. He, K. -K. Wong and J. Wang, "Robust Target Positioning for Reconfigurable Intelligent Surface Assisted MIMO Radar Systems," in **IEEE Transactions on Vehicular Technology**, vol. 72, no. 11, pp. 15098-15102, Nov. 2023.
+[`IEEE`](https://ieeexplore.ieee.org/document/10149128).
+
+**[J26]** L. Huang, J. Yang, K. Wei, **Z. Chen** and X. Zhang, "Peak Cancellation Method With IIR Filters and Its FPGA Implementation," in **IEEE Transactions on Circuits and Systems II: Express Briefs**, vol. 70, no. 9, pp. 3704-3708, Sept. 2023.
+[`IEEE`](https://ieeexplore.ieee.org/document/10103762).
+
+**[J25]** **Z. Chen(陈真)**, J. Tang*, X. Y. Zhang, Q. Wu, Y. Wang, D. K. C. So, S. Jin and K. -K. Wong," Offset Learning Based Channel Estimation for Intelligent Reflecting Surface-Assisted Indoor Communication," in **IEEE Journal of Selected Topics in Signal Processing**, vol. 16, no. 1, pp. 41-55, Jan. 2022. 
 [`PDF`](https://baile035.github.io/chenz_CV/files/Offset_Learning_Based_Channel_Estimation_for_Intelligent_Reflecting_Surface-Assisted_Indoor_Communication.pdf).
 [`IEEE`](https://ieeexplore.ieee.org/document/9622178).
 [`BIBTEX`](https://baile035.github.io/chenz_CV/files/Offset_Learning_Based_Channel_Estimation_for_Intelligent_Reflecting_Surface-Assisted_Indoor_Communication.bib).
 
-**[J2]** **Z. Chen(陈真)**, N. Zhao, D. K. C. So, J. Tang*, X. Y. Zhang and K. -K. Wong "Joint altitude and hybrid beamspace precoding optimization for UAV-enabled multiuser mmWave MIMO System," in **IEEE Transactions on Vehicular Technology**, vol. 71, no. 2, pp. 1713-1725, Feb. 2022.
+**[J24]** **Z. Chen(陈真)**, N. Zhao, D. K. C. So, J. Tang*, X. Y. Zhang and K. -K. Wong "Joint altitude and hybrid beamspace precoding optimization for UAV-enabled multiuser mmWave MIMO System," in **IEEE Transactions on Vehicular Technology**, vol. 71, no. 2, pp. 1713-1725, Feb. 2022.
 [`PDF`](https://baile035.github.io/chenz_CV/files/Joint_Altitude_and_Hybrid_Beamspace_Precoding_Optimization_for_UAV-Enabled_Multiuser_mmWave_MIMO_System.pdf).
 [`IEEE`](https://ieeexplore.ieee.org/document/9648018).
 [`BIBTEX`](https://baile035.github.io/chenz_CV/files/Offset_Learning_Based_Channel_Estimation_for_Intelligent_Reflecting_Surface-Assisted_Indoor_Communication.bib).
 
-**[J3]** **Z. Chen(陈真)**, J. Tang*, X. Y. Zhang, Q. Wu, G. Chen and K. -K. Wong, " Robust Hybrid Beamforming Design for Multi-RIS Assisted MIMO System with Imperfect CSI," in **IEEE Transactions on Wireless Communications**, 2022. doi: 10.1109/TWC. 2022.3222218.
+**[J23]** **Z. Chen(陈真)**, J. Tang*, X. Y. Zhang, Q. Wu, G. Chen and K. -K. Wong, " Robust Hybrid Beamforming Design for Multi-RIS Assisted MIMO System with Imperfect CSI," in **IEEE Transactions on Wireless Communications**, 2022. doi: 10.1109/TWC. 2022.3222218.
 [`PDF`](https://baile035.github.io/chenz_CV/files/Robust_Hybrid_Beamforming_Design_for_Multi-RIS_Assisted_MIMO_System_with_Imperfect_CSI.pdf).
 [`IEEE`](https://ieeexplore.ieee.org/document/9957104).
 [`BIBTEX`](https://baile035.github.io/chenz_CV/files/Robust_Hybrid_Beamforming_Design_for_Multi-RIS_Assisted_MIMO_System_with_Imperfect_CSI.bib).
 
-**[J4]** **Z. Chen(陈真)**, J. Tang*, N. Zhao, M. Liu and D. K. C. So, " Hybrid Beamforming with Discrete Phase Shifts for RIS-assisted Multiuser SWIPT System," in **IEEE Wireless Communications Letters**, 2022.doi: 10.1109/LWC.2022.3218332.
+**[J22]** **Z. Chen(陈真)**, J. Tang*, N. Zhao, M. Liu and D. K. C. So, " Hybrid Beamforming with Discrete Phase Shifts for RIS-assisted Multiuser SWIPT System," in **IEEE Wireless Communications Letters**, 2022.doi: 10.1109/LWC.2022.3218332.
 [`PDF`](https://baile035.github.io/chenz_CV/files/Hybrid_Beamforming_With_Discrete_Phase_Shifts_for_RIS-Assisted_Multiuser_SWIPT_System.pdf).
 [`IEEE`](https://ieeexplore.ieee.org/document/9957104).
 [`BIBTEX`](https://baile035.github.io/chenz_CV/files/Hybrid_Beamforming_With_Discrete_Phase_Shifts_for_RIS-Assisted_Multiuser_SWIPT_System.bib).
 
-**[J5]** **Z. Chen(陈真)**, G. Chen, J. Tang*; S. Zhang, D. K. C. So, O. A. Dobre, K. -K. Wong and J. Chambers, "Reconfigurable Intelligent Surface-Assisted B5G/6G Wireless Communications: Challenges, Solution and Future Opportunities," in **IEEE Communications Magazine**, vol. 61, no. 1, pp. 16-22, January 2023.
+**[J21]** **Z. Chen(陈真)**, G. Chen, J. Tang*; S. Zhang, D. K. C. So, O. A. Dobre, K. -K. Wong and J. Chambers, "Reconfigurable Intelligent Surface-Assisted B5G/6G Wireless Communications: Challenges, Solution and Future Opportunities," in **IEEE Communications Magazine**, vol. 61, no. 1, pp. 16-22, January 2023.
 [`PDF`](https://baile035.github.io/chenz_CV/files/Reconfigurable-Intelligent-Surface-Assisted_B5G_6G_Wireless_Communications_Challenges_Solution_and_Future_Opportunities.pdf).
 [`IEEE`](https://ieeexplore.ieee.org/document/9903378/).
 [`BIBTEX`](https://baile035.github.io/chenz_CV/files/Reconfigurable-Intelligent-Surface-Assisted_B5G_6G_Wireless_Communications_Challenges_Solution_and_Future_Opportunities.bib).
 
 
-**[J6]** **Z. Chen(陈真)**, J. Tang*, X. Y. Zhang, D. K. C. So, S. Jin and K. -K. Wong, " Hybrid Evolutionary-Based Sparse Channel Estimation for IRS-Assisted mmWave MIMO Systems," in **IEEE Transactions on Wireless Communications**, vol. 21, no. 3, pp. 1586-1601, March 2022.
+**[J20]** **Z. Chen(陈真)**, J. Tang*, X. Y. Zhang, D. K. C. So, S. Jin and K. -K. Wong, " Hybrid Evolutionary-Based Sparse Channel Estimation for IRS-Assisted mmWave MIMO Systems," in **IEEE Transactions on Wireless Communications**, vol. 21, no. 3, pp. 1586-1601, March 2022.
 [`PDF`](https://baile035.github.io/chenz_CV/files/Hybrid_Evolutionary-Based_Sparse_Channel_Estimation_for_IRS-Assisted_mmWave_MIMO_Systems.pdf).
 [`IEEE`](https://ieeexplore.ieee.org/abstract/document/9521836/).
 [`BIBTEX`](https://baile035.github.io/chenz_CV/files/Hybrid_Evolutionary-Based_Sparse_Channel_Estimation_for_IRS-Assisted_mmWave_MIMO_Systems.bib).  **<font color=orange>[ESI Highly Cited Paper]</font>**
 
-**[J7]** **Z. Chen(陈真)**, J. Tang*, M. Wen, Z. Li, J. Yang, X. Y. Zhang and K. -K. Wong, " Reconfigurable Intelligent Surface Assisted MEC Offloading in NOMA-Enabled IoT Networks," in **IEEE Transactions on Communications**, 2023. (early access)
+**[J19]** **Z. Chen(陈真)**, J. Tang*, M. Wen, Z. Li, J. Yang, X. Y. Zhang and K. -K. Wong, " Reconfigurable Intelligent Surface Assisted MEC Offloading in NOMA-Enabled IoT Networks," in **IEEE Transactions on Communications**, 2023. (early access)
 [`IEEE`](https://ieeexplore.ieee.org/document/10128149/).
 
 
 
-**[J8]** Z. Su, W. Feng, J. Tang*, **Z. Chen(陈真)**, N Zhao and K. -K. Wong, "Energy-Efficiency Optimization for D2D Communications Underlaying UAV-Assisted Industrial IoT Networks With SWIPT," in **IEEE Internet of Things Journal**, vol. 10, no. 3, pp. 1990-2002, 1 Feb.1, 2023.
+**[J18]** Z. Su, W. Feng, J. Tang*, **Z. Chen(陈真)**, N Zhao and K. -K. Wong, "Energy-Efficiency Optimization for D2D Communications Underlaying UAV-Assisted Industrial IoT Networks With SWIPT," in **IEEE Internet of Things Journal**, vol. 10, no. 3, pp. 1990-2002, 1 Feb.1, 2023.
 [`PDF`](https://baile035.github.io/chenz_CV/files/Energy-Efficiency_Optimization_for_D2D_Communications_Underlaying_UAV-Assisted_Industrial_IoT_Networks_With_SWIPT.pdf).
 [`IEEE`](https://ieeexplore.ieee.org/document/9676698).
 [`BIBTEX`](https://baile035.github.io/chenz_CV/files/Energy-Efficiency_Optimization_for_D2D_Communications_Underlaying_UAV-Assisted_Industrial_IoT_Networks_With_SWIPT.bib).
 
 
-**[J9]** Y. Song, J. Tang*, C. Lin, W. Feng, **Z. Chen(陈真)** and K. -K. Wong, "Energy Efficiency Optimization for PSOAM Mode-Groups Based MIMO-NOMA Systems," in **IEEE Transactions on Communications**, vol. 70, no. 8, pp. 5679-5692, Aug. 2022.
+**[J17]** Y. Song, J. Tang*, C. Lin, W. Feng, **Z. Chen(陈真)** and K. -K. Wong, "Energy Efficiency Optimization for PSOAM Mode-Groups Based MIMO-NOMA Systems," in **IEEE Transactions on Communications**, vol. 70, no. 8, pp. 5679-5692, Aug. 2022.
 [`PDF`](https://baile035.github.io/chenz_CV/files/Energy_Efficiency_Optimization_for_PSOAM_Mode-Groups_Based_MIMO-NOMA_Systems.pdf).
 [`IEEE`](https://ieeexplore.ieee.org/document/9791313).
 [`BIBTEX`](https://baile035.github.io/chenz_CV/files/Energy_Efficiency_Optimization_for_PSOAM_Mode-Groups_Based_MIMO-NOMA_Systems.bib).
 
-**[J10]** **陈真**, 唐杰, 杜晓宇, 章秀银. 无人机辅助多用户毫米波MIMO系统的透镜波束预编码技术研究[J]. **电子与信息学报**, 2022, 44(3): 844-851.
+**[J16]** **陈真**, 唐杰, 杜晓宇, 章秀银. 无人机辅助多用户毫米波MIMO系统的透镜波束预编码技术研究[J]. **电子与信息学报**, 2022, 44(3): 844-851.
 [`PDF`](https://baile035.github.io/chenz_CV/files/无人机辅助多用户毫米波MIMO系统的透镜波束预编码技术研究.pdf).
 [`Link`](https://jeit.ac.cn/cn/article/doi/10.11999/JEIT211194?viewType=HTML).
 [`BIBTEX`](https://baile035.github.io/chenz_CV/files/无人机辅助多用户毫米波MIMO系统的透镜波束预编码技术研究.bib).
 
-**[J11]** **Z. Chen(陈真)**, Y. Fu, Y. Xiang, J. Xu R. Rong, “A Novel Low-rank Model for MRI Using the Redundant Wavelet Tight Frame,” **Neurocomputing**, vol.289, pp.180-187, 2018.
+**[J15]** **Z. Chen(陈真)**, Y. Fu, Y. Xiang, J. Xu R. Rong, “A Novel Low-rank Model for MRI Using the Redundant Wavelet Tight Frame,” **Neurocomputing**, vol.289, pp.180-187, 2018.
 
-**[J12]** **Z. Chen(陈真)**, C. Huang and S. Lin, “A new sparse representation framework for compressed sensing MRI,” **Knowledge-Based Systems** Online. DOI: https://doi.org/10.1016/ knosys.2019.104969.
+**[J14]** **Z. Chen(陈真)**, C. Huang and S. Lin, “A new sparse representation framework for compressed sensing MRI,” **Knowledge-Based Systems** Online. DOI: https://doi.org/10.1016/ knosys.2019.104969.
 
 **[J13]** **Z. Chen(陈真)**, Y. Xiang， P. Zhang and J. Hu, “Robust compressed sensing MRI based on combined nonconvex regularization,” **Knowledge-Based Systems**, 2023.
 
-**[J14]** **Z. Chen(陈真)**, Y Fu, Y Xiang, Y Zhu, “A novel MR image denoising via LRMA and NLSS,” **Signal processing**, vol, 185, pp.101-109, 2022. 
+**[J12]** **Z. Chen(陈真)**, Y Fu, Y Xiang, Y Zhu, “A novel MR image denoising via LRMA and NLSS,” **Signal processing**, vol, 185, pp.101-109, 2022. 
 
-**[J15]** **Z. Chen(陈真)**, J Hu, X Qiu, W. Jiang, “Kernel ridge regression-based TV regularization for motion correction of dynamic MRI,” **Signal Processing**, 2022, 197: 108-119.
+**[J11]** **Z. Chen(陈真)**, J Hu, X Qiu, W. Jiang, “Kernel ridge regression-based TV regularization for motion correction of dynamic MRI,” **Signal Processing**, 2022, 197: 108-119.
 
-**[J16]** **Z. Chen(陈真)**, Y. Fu, Y. Xiang, J. Xu, R. Rong, “A Novel Iterative Shrinkage Algorithm for CS-MRI via Adaptive Regularization,” **IEEE Signal Processing Letters**, vol.24, no.10, pp.1443-1447, 2017.
+**[J10]** **Z. Chen(陈真)**, Y. Fu, Y. Xiang, J. Xu, R. Rong, “A Novel Iterative Shrinkage Algorithm for CS-MRI via Adaptive Regularization,” **IEEE Signal Processing Letters**, vol.24, no.10, pp.1443-1447, 2017.
 [`IEEE`](https://ieeexplore.ieee.org/document/8002663/).
 
-**[J17]** **Z. Chen(陈真)**, Z. Zhou, A. Saifullah, “Joint Low-rank Prior and Difference of Gaussian Filter for Magnetic Resonance Image Denoising,” **Medical & Biological Eng & Computing**, vol.59, no.10, pp. 607-620, 2021.
+**[J9]** **Z. Chen(陈真)**, Z. Zhou, A. Saifullah, “Joint Low-rank Prior and Difference of Gaussian Filter for Magnetic Resonance Image Denoising,” **Medical & Biological Eng & Computing**, vol.59, no.10, pp. 607-620, 2021.
 
-**[J18]** X Qiu, **Z. Chen(陈真)***, S Adnan, W. He, "Improved MR Image Denoising via Low-rank Approximation and Laplacian-of-Gaussian edge detector," **IET Image Processing**, vol.14, no.12, pp.2791-2798, 2020.
+**[J8]** X Qiu, **Z. Chen(陈真)***, S Adnan, W. He, "Improved MR Image Denoising via Low-rank Approximation and Laplacian-of-Gaussian edge detector," **IET Image Processing**, vol.14, no.12, pp.2791-2798, 2020.
 
-**[J19]** Y. Fu, T. Zhu, Y. Xiang, **Z. Chen(陈真)** and L. Cai, "Stability Analysis of ℓ0,∞-Norm Based Convolutional Sparse Coding Using Stripe Coherence," in **IEEE Transactions on Signal Processing**, vol. 68, pp. 5810-5823, 2020.
+**[J7]** Y. Fu, T. Zhu, Y. Xiang, **Z. Chen(陈真)** and L. Cai, "Stability Analysis of ℓ0,∞-Norm Based Convolutional Sparse Coding Using Stripe Coherence," in **IEEE Transactions on Signal Processing**, vol. 68, pp. 5810-5823, 2020.
 [`IEEE`](https://ieeexplore.ieee.org/document/9201519/).
 
-**[J20]** R. Hu, Y. Fu, **Z. Chen(陈真)**, J. Xu and J. Tang, "Robust DOA Estimation via Sparse Signal Reconstruction with Impulsive Noise," in **IEEE Communications Letters**, vol. 21, no. 6, pp. 1333-1336, June 2017.
+**[J6]** R. Hu, Y. Fu, **Z. Chen(陈真)**, J. Xu and J. Tang, "Robust DOA Estimation via Sparse Signal Reconstruction with Impulsive Noise," in **IEEE Communications Letters**, vol. 21, no. 6, pp. 1333-1336, June 2017.
 [`IEEE`](https://ieeexplore.ieee.org/document/7865989/).
 
-**[J21]** R. Hu, Y. Fu, **Z. Chen(陈真)**, Y. Xiang and R. Rong, "Robust Sparse Signal Recovery in the Presence of the S αS Noise," in **IEEE Signal Processing Letters**, vol. 23, no. 11, pp. 1687-1691, Nov. 2016.
+**[J5]** R. Hu, Y. Fu, **Z. Chen(陈真)**, Y. Xiang and R. Rong, "Robust Sparse Signal Recovery in the Presence of the S αS Noise," in **IEEE Signal Processing Letters**, vol. 23, no. 11, pp. 1687-1691, Nov. 2016.
 [`IEEE`](https://ieeexplore.ieee.org/document/7582482).
 
-**[J22]** Y Fu, J Xu, Y Xiang, **Z. Chen(陈真)**, et al, "Multi-scale patches based image denoising using weighted nuclear norm minimization," **IET Image Processing**, 2020, 14(11).
+**[J4]** Y Fu, J Xu, Y Xiang, **Z. Chen(陈真)**, et al, "Multi-scale patches based image denoising using weighted nuclear norm minimization," **IET Image Processing**, 2020, 14(11).
 
-**[J23]** R Hu, Y. Fu, **Z. Chen(陈真)**, Y. Xiang and J. Tang, "A Lorentzian IHT for Complex-Valued Sparse Signal Recovery," **Circuits, Systems, and Signal Processing**, 2018, 37(2):862-872.
+**[J3]** R Hu, Y. Fu, **Z. Chen(陈真)**, Y. Xiang and J. Tang, "A Lorentzian IHT for Complex-Valued Sparse Signal Recovery," **Circuits, Systems, and Signal Processing**, 2018, 37(2):862-872.
 
-**[J24]** Y. Fu, Z. Chen, Y. Xiang, J. Xu and R. Rong, "An Accelerated MMP With a Pruning Tree Strategy," in **IEEE Access**, vol. 7, pp. 27115-27123, 2019.
+**[J2]** Y. Fu, Z. Chen, Y. Xiang, J. Xu and R. Rong, "An Accelerated MMP With a Pruning Tree Strategy," in **IEEE Access**, vol. 7, pp. 27115-27123, 2019.
 [`IEEE`](https://ieeexplore.ieee.org/document/8630946/).
 
-**[J25]** J. Huang, J. Tang, A. Shojaeifard, **Z. Chen(陈真)**, J. Hu, D. K. C. So and K. -K. Wong., "Drone Mobile Networks: Performance Analysis Under 3D Tractable Mobility Models," in **IEEE Access**, vol. 9, pp. 90555-90567, 2021.
+**[J1]** J. Huang, J. Tang, A. Shojaeifard, **Z. Chen(陈真)**, J. Hu, D. K. C. So and K. -K. Wong., "Drone Mobile Networks: Performance Analysis Under 3D Tractable Mobility Models," in **IEEE Access**, vol. 9, pp. 90555-90567, 2021.
 [`IEEE`](https://ieeexplore.ieee.org/document/9454462/).
 
 
