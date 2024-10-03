@@ -26,7 +26,7 @@ to support young faculties exploring innovative ideas in different disciplines. 
 in computer science in 2020. The topic of this project is focused on designing and developing efficient
 and privacy-preserving big data systems running in multiple data centers. **(Budget: 60,000 CNY)**
 
-NSFC Young Scientists Fund (2019 – 2021)
+NSFC Young Scientists Fund (2021 – 2023)
 ---
 
 **_Single PI_**
@@ -36,7 +36,7 @@ single cloud region and multiple geo-distributed cloud regions. This project pro
 efficient solutions for scientific applications, especially scientific workflows which have complicated data
 dependencies. **(Budget: 260,000 CNY, with a competitive funding rate of 25.5% nationwide)**
 
-Shenzhen Overseas High-Caliber Personnel (2019 – 2021)
+Natural Science Foundation of Guangdong Province (2023 – 2026)
 ---
 
 **_Single PI_**
@@ -46,9 +46,9 @@ with high quality research records and good research potential. This project aim
 performance variation problem in large-scale distributed systems, in order to provide predictable and
 stable performance optimization for big data applications. This project is important to different types
 of distributed systems that are shared among multiple users. The project also attracted interests from
-industry such as Alibaba. **(Budget: 2,700,000 CNY)**
+industry such as Alibaba. **(Budget: 150,000 CNY)**
 
-Shenzhen STI Free Exploration Project (2019 – 2021)
+Natural Science Foundation of Guangdong Province (2022 – 2024)
 ---
 
 **_Single PI_**
@@ -56,9 +56,9 @@ Shenzhen STI Free Exploration Project (2019 – 2021)
 The Shenzhen STI Free Exploration Project is granted to young and potential researchers to perform
 basic research in areas where they found important. This project targets at the system challenges in wide
 area network and aims at designing new method to improve system efficiency for graph-like applications.
-**(Budget: 300,000 CNY)**
+**(Budget: 100,000 CNY)**
 
-NSFC-Guangdong Young Scientists Fund (2018 – 2020)
+Natural Science Foundation of Guangdong Province (2021 – 2023)
 ---
 
 **_Single PI_**
