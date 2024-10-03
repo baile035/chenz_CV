@@ -11,14 +11,14 @@ Journal Editorships
 ---
 
 
-
-> **<a href="https://www.keaipublishing.com/en/journals/digital-communications-and-networks/editorial-board/">Editor</a>** of Digital Communications and Networks (SCI Index, IF=7.6), Started in 2023.<br>
+> **<a href="https://www.keaipublishing.com/en/journals/digital-communications-and-networks/editorial-board/">Associate Editor</a>** of Digital Communications and Networks (SCI Index, IF=7.6), Started in 2023.<br>
+> **<a href="https://www.keaipublishing.com/en/journals/digital-communications-and-networks/editorial-board/">Associate Editor</a>** of Digital Communications and Networks (SCI Index, IF=7.6), Started in 2023.<br>
 > **<a href="https://www.hindawi.com/journals/wcmc/editors/">Editor</a>** of Wireless Communications and Mobile Computing (SCI Index, IF=2.336), Started in 2023.<br>
 <!--
 > **Associate Editor** of IEEE Transactions on Parallel and Distributed Systems (SCI Index, IF=2.69), Started in Jan 2022.<br>
--->
 > **Guest Editor** of Concurrency and Computation: Practice and Experience (SCI Index, IF=1.83), Started in 2022.<br>
-> **<a href="http://wkdxb.wust.edu.cn/wkd_zr/ch/reader/view_news.aspx?id=20230831144843001/">青年编委</a>**  ， 武汉科技大学学报, Started in 2023.
+-->
+> **<a href="http://wkdxb.wust.edu.cn/wkd_zr/ch/reader/view_news.aspx?id=20230831144843001/">青年编委</a>**， 武汉科技大学学报, Started in 2022.
 
 Conference Organizing Committee Memer
 ---
