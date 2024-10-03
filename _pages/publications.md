@@ -8,8 +8,19 @@ My publication list: <a href="https://dblp.org/pid/11/1266-10.html"> Entry@DBLP<
 
 Journal Articles
 ----------
+**[J34]** **Z. Chen**, X. Y. Zhang, D. K. C. So, K. -K. Wong, C. -B. Chae and J. Wang, "Federated Learning Driven Sparse Code Multiple Access in V2X Communications," in IEEE Network, doi: 10.1109/MNET.2024.3375935.
+[`IEEE`](https://ieeexplore.ieee.org/document/10473705).
 
-**[J30]**T. Liu, X. Yang, H. Jiang, H. Zhang and **Z. Chen**, "Reconfigurable Intelligent Surface Enhanced Massive Connectivity With Massive MIMO," in IEEE Transactions on Communications, vol. 71, no. 12, pp. 7441-7454, Dec. 2023.
+**[J33]** **Z. Chen**, L. Huang, S. Xia, B. Tang, M. Haardt and X. Y. Zhang, "Parallel Channel Estimation for RIS-Assisted Internet of Things," in IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 8, pp. 9762-9773, Aug. 2024.
+[`IEEE`](https://ieeexplore.ieee.org/document/10444709).
+
+**[J32]** J. Tang,  X. Du, **Z. Chen**, X. Y. Zhang, D. K. C. So, S. Jin and K. -K. Wong, "Joint Sparsity and Low-Rank Minimization for Reconfigurable Intelligent Surface-Assisted Channel Estimation," in IEEE Transactions on Communications, vol. 72, no. 3, pp. 1688-1700, March 2024
+[`IEEE`](https://ieeexplore.ieee.org/document/10444709).
+
+**[J31]** L. Zeng, X. Liao, Z. Ma, B. Xiong, H. Jiang and **Z. Chen**, "Three-Dimensional UAV-to-UAV Channels: Modeling, Simulation, and Capacity Analysis," in IEEE Internet of Things Journal, vol. 11, no. 6, pp. 10054-10068, 15 March15, 2024.
+
+
+**[J30]** T. Liu, X. Yang, H. Jiang, H. Zhang and **Z. Chen**, "Reconfigurable Intelligent Surface Enhanced Massive Connectivity With Massive MIMO," in IEEE Transactions on Communications, vol. 71, no. 12, pp. 7441-7454, Dec. 2023.
 [`IEEE`](https://ieeexplore.ieee.org/document/10288535).
 
 **[J29]** T. Liu, H. Jiang, Z. Yang and Z. Chen, "Reconfigurable Intelligent Surface Enhanced Massive IoT Systems With Nonlinear Measurements," in IEEE Wireless Communications Letters, vol. 12, no. 11, pp. 1976-1980, Nov. 2023.
