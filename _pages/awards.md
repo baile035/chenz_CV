@@ -11,8 +11,6 @@ Research Awards
 **<a href="https://www.cikm2021.org/programme/best-reviewers">Best Reviewers Award</a>, CIKM 2021**
 -->
 
-**Best Reviewers Award, Neurocomputing 2018**
-> The award was given to 20 reviewers out of more than 2,000 reviewers during the Neurocomputing 2018.
 
 **First prize of natural science, Guangdong Electronics Society, 2024**
 > The Guangdong Electronics Society Award recognizes the research achievements of young scholars in the field of Computer Science in China. I'm one of the two recipients of this award in the subfield of High Performance Computing.
@@ -22,9 +20,6 @@ Research Awards
 
 **Tencent “Rhino-bird” Open-Funded Young Researcher Award, 2020**
 > The “Rhino-bird” Open-Funded Young Researcher Award is jointly initiated by Tencent and Shenzhen University to recognize outstanding young scholars in different disciplines (two recipients in computer science in 2020) carrying out frontier scientific research.
-
-**Outstanding Student Advisor of Shenzhen University, 2020**
-> This award is granted for my work as the head student advisor of the “special class in high performance computing” (30 students).
 
 **IEEE Outstanding Leadership Award, 2019**
 > This award is to recognize my role as Program Co-Chair of the 5th IEEE International Conference on Smart Data (SmartData-2019), Atlanta, USA, 14-17 July 2019.
@@ -38,8 +33,10 @@ Research Awards
 > This award is to recognize my role as Local Co-Chair of the IEEE 6th International Conference on Cloud Computing Technology and Science (CloudCom), Singapore, Dec. 2014.
 
 
+**Best Reviewers Award, Neurocomputing 2018**
+> The award was given to 20 reviewers out of more than 2,000 reviewers during the Neurocomputing 2018.
+
 Advised Student Honors
 ---
 * Ms. Jiexin Chen and Mr. Jiarong Zhong won Honorable Mention in the Interdisciplinary Contest in Modeling (ICM) in 2020.
-* Mr. Yao Xiao is awarded the Distinguished Graduate Student of Shenzhen university in 2019. (10 out of 112)
-* The SZU-HPC Team won 3rd prize in the Optimization track of the Parallel Application Challenge (PAC) 2017 and 2018.
+* Mr. Xiaoyu DU is awarded the Distinguished Graduate Student of SCUT in 2023. (10 out of 112)
