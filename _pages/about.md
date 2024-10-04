@@ -31,7 +31,7 @@ redirect_from:
 Bio
 ----------
 <p align="justify">
-Zhen Chen received the M.S. degree in Software Engineering form Xiamen University in 2012 and the PhD degree in electronic engineering from South China University of Technology, Guangzhou, China, in 2019. From 2020 to 2023, he was a Lead Engineer with the Hong Kong Applied Science and Technology Research Institute, Hong Kong. He is now a Research Fellow at University of Macau, China. His current research interests include array signal processing, Integrated radar and communication, channel estimation, UAV communications and 5G/6G networks. 
+Zhen Chen received the M.S. degree in Software Engineering form Xiamen University in 2012 and the PhD degree in electronic engineering from South China University of Technology, Guangzhou, China, in 2019. From 2020 to 2023, he was a Lead Engineer with the Hong Kong Applied Science and Technology Research Institute, Hong Kong. From 2023 to 2024, he was a Research Fellow with the City University of Hong Kong, Hong Kong. He is now a Research Fellow at University of Macau, China. His current research interests include array signal processing, Integrated radar and communication, channel estimation, UAV communications and 5G/6G networks. 
 </p>
 
 
