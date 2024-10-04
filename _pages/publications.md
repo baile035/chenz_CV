@@ -26,7 +26,7 @@ Journal Articles
 [`IEEE`](https://ieeexplore.ieee.org/document/10533223).
 
 **[J35]** L. Zeng, X. Liao, Z. Ma, H. Jiang and **Z. Chen**, "UAV-to-UAV MIMO Systems Under Multimodal Nonisotropic Scattering: Geometrical Channel Modeling and Outage Performance Analysis," in IEEE Internet of Things Journal, vol. 11, no. 15, pp. 26266-26278, 1 Aug.1, 2024.
-[`IEEE`](https://ieeexplore.ieee.org/document/10511285).
+[`IEEE`](https://ieeexplore.ieee.org/document/10511285). **<font color=orange>[ESI Highly Cited Paper]</font>**
 
 **[J34]** **Z. Chen**, X. Y. Zhang, D. K. C. So, K. -K. Wong, C. -B. Chae and J. Wang, "Federated Learning Driven Sparse Code Multiple Access in V2X Communications," in IEEE Network, doi: 10.1109/MNET.2024.3375935.
 [`IEEE`](https://ieeexplore.ieee.org/document/10473705).
