@@ -189,7 +189,7 @@ Conference Papers
 [`IEEE`](https://ieeexplore.ieee.org/document/10073394).
 [`BIBTEX`](https://pxl0912.github.io/files/Joint_Energy_and_Information_Beamforming_Design_for_RIS-assisted_Wireless_Powered_Communication.bib).
 
-**[C6]** **Z Chen(陈真)***, X. Du and L. Chen, “Compressed Sensing Based Joint Sparse Channel Estimation for RIS-Assisted Internet of Things,” **5th International Conference on Information Communication and Signal Processing (ICICSP 2022),2022**, pp. 375-381.
+**[C6]** **Z Chen(陈真)***, X. Du and L. Chen, “Compressed Sensing Based Joint Sparse Channel Estimation for RIS-Assisted Internet of Things,” **5th International Conference on Information Communication and Signal Processing (ICICSP 2022),2022**, pp. 375-381. (**<font color=orange>Best Paper Award</font>**)
 [`PDF`](https://pxl0912.github.io/files/Compressed_Sensing_Based_Joint_Sparse_Channel_Estimation_for_RIS-Assisted_Internet_of_Things.pdf).
 [`IEEE`](https://ieeexplore.ieee.org/document/10050699).
 [`BIBTEX`](https://pxl0912.github.io/files/Compressed_Sensing_Based_Joint_Sparse_Channel_Estimation_for_RIS-Assisted_Internet_of_Things.bib).
