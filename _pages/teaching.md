@@ -10,13 +10,13 @@ I teach undergraduate courses for CE students. I have several topics on Reconfig
 Curriculum and Course Development
 ---
 
-Co-Create the **Shenzhen University High Performance Computing Team** (with Dr. Gang Liu) for student
+Co-Create the **SCUT Intelligent sensing and communication Team** (with Dr. Xiu Yin Zhang) for student
 cluster competitions. Give training courses to team members and lead the team participating both
 national and international competition events including the [Parallel Application Challenge (PAC)](http://www.pac-hpc.com/index.php) and
 [ASC Student Competition](http://www.asc-events.net/).
 
 Co-Develop the curriculum for the **artificial intelligence (AI) specialization** for the software engineering
-program at CSSE, Shenzhen University, 2020.
+program at CSSE, SCUT, 2022.
 
 New course material development:
 
@@ -55,22 +55,23 @@ Courses Taught
 Supervision
 ---
 
-**Yao Xiao** Oct 2017 to June 2019
+**Weiyan Chen** Oct 2024 to Now
 Graduated with Master’s Degree
 >Thesis: Research on Privacy Regulation Aware Geo-Distributed Process Mapping Problem. 
 >
->First appointment: Ph.D student at Shenzhen University, working with me on exciting optimization problems for parallel and distributed systems. 
+>First appointment: Ph.D student at SCUT, working with me on exciting optimization problems for parallel and distributed systems. 
 >
->Contributions: System prototypes, IEEE TPDS (3), ICPP 2019. **Distinguished Graduate Student** of Shenzhen University.
+>Contributions: System prototypes, IEEE TPDS (3), ICPP 2019. **Distinguished Graduate Student** of SCUT.
 
-**Bingkun Shen** Oct 2017 to June 2019
+**Hancheng Guo** Oct 2023 to June 2026
 Graduated with Master’s Degree
 >Thesis: Performance- and Cost-Efficient Graph Processing in Geo-Distributed Datacenters. 
 >
->First appointment: Engineer at Sangfor Technologies Inc.
+>First appointment: Engineer at Huawei Technologies Inc.
 >
 >Contributions: System prototypes, IEEE TPDS.
 
+<!--
 **Juanyun Luo** Oct 2018 to June 2021
 Graduated with Master’s Degree
 >Thesis: Adaptive Partitioning Methods for Geo-Distributed Graph Processing. 
@@ -86,6 +87,7 @@ Graduated with Master’s Degree
 >First appointment: Engineer at China Construction Bank.
 >
 >Contributions: System prototypes, technical reports.
+-->
 
 <!--
 Advised Student Honors
