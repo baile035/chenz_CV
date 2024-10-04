@@ -14,8 +14,8 @@ Research Awards
 **Best Reviewers Award, Neurocomputing 2018**
 > The award was given to 20 reviewers out of more than 2,000 reviewers during the Neurocomputing 2018.
 
-**ACM SIGHPC China Rising Star, 2021**
-> The ACM China Rising Star Award recognizes the research achievements of young scholars in the field of Computer Science in China. I'm one of the three recipients of this award in the subfield of High Performance Computing.
+**First prize of natural science, Guangdong Electronics Society, 2024**
+> The Guangdong Electronics Society Award recognizes the research achievements of young scholars in the field of Computer Science in China. I'm one of the two recipients of this award in the subfield of High Performance Computing.
 
 **<a href="https://tc.computer.org/tchpc/home-page/page-of-awards/">IEEE-CS TCHPC Early Career Researchers Award for Excellence in High Performance Computing, 2021</a>**
 > The Award recognizes up to three individuals who have made outstanding, influential, and potentially long-lasting contributions in the field of high-performance computing within five years of receiving their PhD degree as of January 1 of the year of the award.
