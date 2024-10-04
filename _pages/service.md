@@ -71,6 +71,7 @@ Elsevier Knowledge-Based Systems (**KBS**)<br>
 
 External/Invited Academic Services
 ---
-> External Reviewers for Ph.D. thesis/proposal. Tsinghua University 2019, 2020.<br>
-<!--> Member of China Computer Federation (CCF) Technical Committee on HPC. One of the two members from Shenzhen University (2018 – present).
+> External Reviewers for Ph.D. thesis/proposal. Tsinghua University 2023.<br>
+> External Reviewers for Ph.D. thesis/proposal. Guangzhou University 2022, 2023.<br>
+<!-- Member of China Computer Federation (CCF) Technical Committee on HPC. One of the two members from Shenzhen University (2018 – present).
 -->
