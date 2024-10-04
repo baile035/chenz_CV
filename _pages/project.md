@@ -16,7 +16,7 @@ NSFC General Program (2022 - 2025)
 
 Data movement across data centers greatly affects the performance of geo-distributed big data systems. Graph computing is an important type of big data applications. Geo-distributed graph computing systems suffer from large computing scale, complex communication patterns, and data movement constraints due to data privacy requirements. How to effectively utilize the hardware resources of geo-distributed systems to realize fast and private graph computing is a major challenge to big data system designers. The goal of this project is to build an accurate and unified model for geo-distributed systems and design geo-aware optimization methods for graph applications accordingly.  **(Budget: 580,000 CNY)**
 
-Tencent “Rhino-bird” Research Fund (2020 – 2022)
+Project of Innovation and Technology Commission, HKSAR Government Research Fund (2022 – 2023)
 ---
 
 **_Single PI_**
@@ -24,7 +24,7 @@ Tencent “Rhino-bird” Research Fund (2020 – 2022)
 This project is granted to the recipients of Tencent “Rhino-bird” Open-Funded Young Researcher Award
 to support young faculties exploring innovative ideas in different disciplines. There are only two recipients
 in computer science in 2020. The topic of this project is focused on designing and developing efficient
-and privacy-preserving big data systems running in multiple data centers. **(Budget: 60,000 CNY)**
+and privacy-preserving big data systems running in multiple data centers. **(Budget: 2,792,775 AUD)**
 
 NSFC Young Scientists Fund (2021 – 2023)
 ---
