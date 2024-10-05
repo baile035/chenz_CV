@@ -38,7 +38,7 @@ Zhen Chen received the M.S. degree in Software Engineering form Xiamen Universit
 
   
 <p align="justify">
-He has served as Technical Program Committee (TPC) Co-chair/Session Chair for a number of conferences. He was the Exemplary Reviewer of several IEEE journals. He was a co-recipient of EAI AICON 2021, IEEE ICICSP 2022, IEEE ICCC 2023, ICICSP 2023, ISCIP 2024 and ICCIA 2024 Best Paper Awards. He has also on the editorial board of several international journals., including Digital Communications and Networks, Elsevier Signal Processing, and IEEE Open Journal of the Communications Society.
+He has served as Technical Program Committee (TPC) Co-chair/Session Chair for a number of conferences. He was the Exemplary Reviewer of several IEEE journals. He was a co-recipient of EAI AICON 2021, IEEE ICICSP 2022, IEEE ICCC 2023, ICICSP 2023, ISCIP 2024 and ICCIA 2024 Best Paper Awards. He has also on the editorial board of several international journals., including Digital Communications and Networks, Elsevier Signal Processing, IEEE Open Journal of Signal Processing and IEEE Open Journal of the Communications Society.
 </p>
 
 
