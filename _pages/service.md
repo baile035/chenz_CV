@@ -12,7 +12,7 @@ Journal Editorships
 
 > **<a href="https://signalprocessingsociety.org/publications-resources/ieee-open-journal-signal-processing/editorial-board">Associate Editor</a>** of IEEE Open Journal of Signal Processing (SCI Index, IF=2.9), Started in 2024.<br>
 > **<a href="https://www.comsoc.org/publications/journals/ieee-ojcoms/ieee-open-journal-communications-society-editorial-board">Associate Editor</a>** of IEEE Open Journal of the Communications Society (SCI Index, IF=6.8), Started in 2024.<br>
-> **<a href="https://www.comsoc.org/publications/journals/ieee-ojcoms/ieee-open-journal-communications-society-editorial-board">Associate Editor</a>** of Elsevier Signal Processing (SCI Index, IF=3.7), Started in 2024.<br>
+> **<a href="https://www.sciencedirect.com/journal/signal-processing/about/editorial-board">Associate Editor</a>** of Elsevier Signal Processing (SCI Index, IF=3.7), Started in 2024.<br>
 > **<a href="https://www.keaipublishing.com/en/journals/digital-communications-and-networks/editorial-board/">Associate Editor</a>** of Digital Communications and Networks (SCI Index, IF=7.6), Started in 2023.<br>
 > **<a href="https://www.hindawi.com/journals/wcmc/editors/">Editor</a>** of Wireless Communications and Mobile Computing (SCI Index, IF=2.336, 2022-2023)<br>
 <!--
