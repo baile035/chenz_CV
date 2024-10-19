@@ -56,7 +56,7 @@ Recent Highlights
 
 * **[Paper]** 2024: Our paper on Physical Layer Security Improvement for Hybrid RIS-assisted MIMO Communications is accepted by **<font color=orange>IEEE CL</font>**. 
 
-* **[Paper]** 2022: Our paper on Nonlinear Channel Estimation and Signal Detection for Quantized OFDM Systems is accepted by **<font color=orange>IEEE WCL</font>**.
+* **[Paper]** 2023: Our paper on Nonlinear Channel Estimation and Signal Detection for Quantized OFDM Systems is accepted by **<font color=orange>IEEE WCL</font>**.
 
 * **[Paper]** 2023: Our paper on RIS-Assisted UAV-Enabled Wireless Powered Communication Network is accepted by **<font color=orange>IEEE ICICSP 2023</font>**.
 
