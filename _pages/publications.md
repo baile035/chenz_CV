@@ -212,6 +212,14 @@ Conference Papers
 [`IEEE`](https://link.springer.com/chapter/10.1007/978-3-030-90196-7_17).
 [`BIBTEX`](https://pxl0912.github.io/files/Energy efficient resource allocation for UCA-based OAM-MIMO system.bib).
 
+**[C10]** **Z Chen(陈真)***, J. Tang, J. Zhang, P. Zhang, S. Zhong, X. Zhang, "Power Allocation and Phase Shift Optimization for RIS-Assisted UAV-Enabled WPCN," **2024 IEEE 9th International Conference on Computational Intelligence and Applications (ICCIA 2024)**, 2024, pp.304-309. (**<font color=orange>Best Paper Award</font>**)
+[`IEEE`](https://ieeexplore.ieee.org/document/10719203).
+
+**[C11]** **Z Chen(陈真)***, Z. Jian and K. Fang, "Joint Power Allocation and Passive Beamforming for Distributed RIS Multiuser Networks," **2024 IEEE 9th International Conference on Signal and Image Processing (ICSIP 2024)**, 2024, pp.245-262. (**<font color=orange>Best Paper Award</font>**)
+[`IEEE`](https://ieeexplore.ieee.org/document/10671553).
+
+
+
 Book Chapters
 ---------
 **[BC1]** RISTA-Reconfigurable Intelligent Surface Technology White Paper(2023)
