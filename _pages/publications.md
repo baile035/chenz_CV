@@ -8,6 +8,72 @@ My publication list: <a href="https://dblp.org/pid/11/1266-10.html"> Entry@DBLP<
 
 Journal Articles
 ----------
+**[J63]** M. Fang, M. Deng, J. Yang, S. Adnan, and **Z. Chen**, "Performance analysis of RIS-aided incremental-relaying wireless communication systems," in Digital Communications and Networks, doi: 10.1016/j.dcan.2025.12.003.
+[`Science`](https://www.sciencedirect.com/science/article/pii/S2352864825001877?via%3Dihub)
+
+**[J62]** D. Chang, H. Jiang, J. Zhou, L. Zeng, **Z. Chen**, F. Shu and J. Wang, "Novel Physics-Based ARIS-Enhanced UAV-to-Vehicle Channel Modeling With 3-D Continuously Arbitrary Trajectory," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2025.3638906.
+[`IEEE`](https://ieeexplore.ieee.org/document/11271456)
+
+**[J62]** B. Zhang, D. Wang, D. Chang, X. Chen, **Z. Chen** and H. Jiang, "Toward Double-RIS-Assisted Low-Altitude A2G Channel Modeling and Analysis in Beam Domain for MIMO Communication Systems," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2025.3641702.
+[`IEEE`](https://ieeexplore.ieee.org/document/11284844)
+
+**[J61]** W. Chen, B. Tang, **Z. Chen**, K. -K. Wong, C. B. Chae and X. Y. Zhang, "Phase- and Amplitude-Assisted Adaptive Model for Interference Mitigation in UAV-Enabled Multicell Systems," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2025.3647451.
+[`IEEE`](https://ieeexplore.ieee.org/document/11313064)
+
+**[J60]** **Z. Chen**, K. -K. Wong, W. K. New, H. Xu, C. B. Papadias, A. P. Petropulu, B. Ottersten, A. Shojaeifard and K. Kang, "Guest Editorial: Special Issue on Advancing Signal Processing Algorithms for Fluid Antenna Systems (FAS)," in IEEE Journal of Selected Topics in Signal Processing, doi: 10.1109/JSTSP.2026.3681342.
+[`IEEE`](https://ieeexplore.ieee.org/document/11540339)
+
+**[J59]** H. Jiang, X. Pan, W. Shi, L. Zeng, **Z. Chen**, F. Shu and J. Wang, "Deep Reinforcement Learning Enabled UAV Trajectory Optimization for A2G Communication Systems," in IEEE Transactions on Cognitive Communications and Networking, doi: 10.1109/TCCN.2025.3633751.
+[`IEEE`](https://ieeexplore.ieee.org/document/11250962)
+
+**[J58]** **Z. Chen**, K. Wang, J. Li, X. Y. Zhang and K. -K. Wong, "Large Language Model-Based Gray Wolf Optimization for Near-Field ISAC Networks," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2026.3665626.
+[`IEEE`](https://ieeexplore.ieee.org/document/11397770)
+
+**[J57]** Y. Zhao, Z. Chen, M. Li, J. Zhang, G. Meng and **Z. Chen**, "Toward High-Efficient V2V Communication Networks: A Study on Channel Modeling and Level-Crossing Rate Analysis," in IEEE Transactions on Network Science and Engineering, doi: 10.1109/TNSE.2026.3674196.
+[`IEEE`](https://ieeexplore.ieee.org/document/11435002)
+
+**[J56]** B. Qiu, Y. Xu, S. Xu, X. Chang, Z. Zhang, J. Li and **Z. Chen**, "SS-CoSaMP-Based Channel Estimation for RIS-Assisted Multi-User Systems With Multi-Region User Distribution," in IEEE Wireless Communications Letters, doi: 10.1109/LWC.2026.3676443.
+[`IEEE`](https://ieeexplore.ieee.org/document/11450409)
+
+**[J55]** W. Shi, H. Jiang, **Z. Chen**, W. Hao and F. Shu, "Three-Dimensional Physics-Based Channel Modeling for RIS-Empowered UAV Communications in Offshore Maritime Scenarios," in IEEE Wireless Communications Letters, doi: 10.1109/LWC.2025.3626214.
+[`IEEE`](https://ieeexplore.ieee.org/document/11218879/)
+
+**[J54]** G. Wu, X. Zhao, H. Jiang and **Z. Chen**, "Joint Beamforming Optimization for UAV and an Active RIS-Assisted Hybrid DFRC Systems," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2025.3585202.
+[`IEEE`](https://ieeexplore.ieee.org/document/11063470)
+
+**[J53]** H. Guo, **Z. Chen**, M. Hunag and X. Y. Zhang, "RapidPD: Rapid Human and Pet Presence Detection System for Smart Vehicles via Wi-Fi," in IEEE Transactions on Aerospace and Electronic Systems, doi: 10.1109/TAES.2025.3562838.
+[`IEEE`](https://ieeexplore.ieee.org/document/10971911)
+
+**[J52]** **Z. Chen**, G. Chen, X. Y. Zhang, J. Tang, S. Jin, K. -K. Wong and J. Chambers, "Joint Power Allocation and Phase Shifts Design for Distributed RIS-Assisted Multiuser Systems," in IEEE Transactions on Mobile Computing, doi: 10.1109/TMC.2025.3582750.
+[`IEEE`](https://ieeexplore.ieee.org/document/11049046)
+
+**[J51]** L. Zeng, X. Liao, Y. Zhu, Z. Ma, J. Yang, X. Peng, H. Jiang and **Z. Chen**, "Second-Order Statistics and Burst Error Analysis of UAV-to-UAV Rician Fading Channels," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2025.3556289.
+[`IEEE`](https://ieeexplore.ieee.org/document/10945646)
+
+**[J50]** X. He, G. Zeng, **Z. Chen** and Y. Zhang, "Reconfigurable Holographic Surface Beamforming via Unrolled Algorithm," in IEEE Wireless Communications Letters, doi: 10.1109/LWC.2025.3559088.
+[`IEEE`](https://ieeexplore.ieee.org/document/10960391)
+
+**[J49]** H. Jiang, W. Shi, **Z. Chen**, Z. Zhang, K. -K. Wong and H. Shin, "Dynamic Channel Modeling of Fluid Antenna Systems in UAV Communications," in IEEE Wireless Communications Letters, doi: 10.1109/LWC.2025.3588223.
+[`IEEE`](https://ieeexplore.ieee.org/document/11078433)
+
+**[J48]** H. Jiang, W. Shi, X. Chen, Q. Zhu and **Z. Chen**, "High-Efficient Near-Field Channel Characteristics Analysis for Large-Scale MIMO Communication Systems," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3496434.
+[`IEEE`](https://ieeexplore.ieee.org/document/10750315)
+
+**[J47]** T. Liu, H. Jiang, X. Wang, X. Yang and **Z. Chen**, "Bayesian Estimator and Detector for Massive Communication With Ultra Massive MIMO," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2024.3523939.
+[`IEEE`](https://ieeexplore.ieee.org/document/10818459)
+
+**[J46]** J. Ye, M. Rihan, P. Zhang, L. Huang, S. Buzzi, and **Z. Chen**, "Energy Efficiency Optimization in Active Reconfigurable Intelligent Surface-Aided Integrated Sensing and Communication Systems," in IEEE Transactions on Vehicular Technology, doi: 10.1109/TVT.2024.3465897.
+[`IEEE`](https://ieeexplore.ieee.org/document/10685084)
+
+**[J45]** H. Jiang, W. Shi, Z. Zhang, C. Pan, Q. Wu, F. Shu, R. Liu, **Z. Chen** and J. Wang, "Large-Scale RIS Enabled Air-Ground Channels: Near-Field Modeling and Analysis," in IEEE Transactions on Wireless Communications, doi: 10.1109/TWC.2024.3504839.
+[`IEEE`](https://ieeexplore.ieee.org/document/10776032)
+
+**[J44]** **Z. Chen**, L. Huang, H. C. So, H. Jiang, X. Y. Zhang and J. Wang, "Deep Reinforcement Learning Over RIS-Assisted Integrated Sensing and Communication: Challenges and Opportunities," in IEEE Vehicular Technology Magazine, doi: 10.1109/MVT.2024.3503537.
+[`IEEE`](https://ieeexplore.ieee.org/document/10812919)
+
+**[J43]** L. Zeng, X. Liao, Z. Ma, W. Liu, H. Jiang, and **Z. Chen**, "Toward More Adaptive UAV-to-UAV GBSMs: Introducing the Extended vMF Distribution," in IEEE Wireless Communications Letters, doi: 10.1109/LWC.2024.3485611.
+[`IEEE`](https://ieeexplore.ieee.org/document/10736443)
+
 **[J42]** K. Fang, Y. Ouyang, B. Zheng, L. Huang, G. Wang and **Z. Chen**, "Security Enhancement for RIS-Aided MEC Systems with Deep Reinforcement Learning," in IEEE Transactions on Communications, doi: 10.1109/TCOMM.2024.3476139.
 [`IEEE`](https://ieeexplore.ieee.org/document/10707344)
 
@@ -218,6 +284,8 @@ Conference Papers
 **[C11]** **Z Chen(陈真)***, Z. Jian and K. Fang, "Joint Power Allocation and Passive Beamforming for Distributed RIS Multiuser Networks," **2024 IEEE 9th International Conference on Signal and Image Processing (ICSIP 2024)**, 2024, pp.245-262. (**<font color=orange>Best Paper Award</font>**)
 [`IEEE`](https://ieeexplore.ieee.org/document/10671553).
 
+**[C12]** **Z Chen(陈真)**, H. Guo and X. Y. Zhang, “Children Presence Detection System in Vehicles via Wi-Fi Devices,” **2025 IEEE 102nd Vehicular Technology Conference (VTC2025-Fall)**, 2025, pp.1-5.
+[`IEEE`](https://ieeexplore.ieee.org/document/11310443).
 
 
 Book Chapters

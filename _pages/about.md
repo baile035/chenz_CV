@@ -22,23 +22,17 @@ redirect_from:
   
 </html>
 
-><p><b style="line-height:50%"> Web: <a href="https://www.um.edu.mo/">https://www.um.edu.mo/</a> </b></p>
-><p><b style="line-height:50%"> Email: <a href="mailto:chenz.scut@gmail.com">chenz.scut@gmail.com</a>;<a href="mailto:chenzz@xmu.edu.cn">chenzz@xmu.edu.cn</a></b> </p>
-><p><b style="line-height:50%"> Phone: +86 13430267471 </b></p>
+><p><b style="line-height:50%"> Web: <a href="https://faculty.jnu.edu.cn/wlkjaqxy/cz2/list.htm">https://faculty.jnu.edu.cn/wlkjaqxy/cz2/list.htm</a> </b></p>
+><p><b style="line-height:50%"> Email: <a href="mailto:chenz@jnu.edu.cn">chenz@jnu.edu.cn</a>;<a href="mailto:chenz.scut@gmail.com">chenz.scut@gmail.com</a>;</b> </p>
+
 <!--
 ><p><b width="50%" style="line-height:50%">School of Electronic and Information Engineering, Shaw Building, Wushan Campus, SCUT, 510461, China.  </b> </p>
 -->
 Bio
 ----------
 <p align="justify">
-Zhen Chen received the M.S. degree in Software Engineering form Xiamen University in 2012 and the PhD degree in electronic engineering from South China University of Technology, Guangzhou, China, in 2019. From 2020 to 2023, he was a Lead Engineer with the Hong Kong Applied Science and Technology Research Institute, Hong Kong. From 2023 to 2024, he was a Research Fellow with the City University of Hong Kong, Hong Kong. He is now a Research Fellow at University of Macau, China. His current research interests include array signal processing, Integrated radar and communication, channel estimation, UAV communications and 5G/6G networks. 
-</p>
-
-
-
-  
-<p align="justify">
-He has served as Technical Program Committee (TPC) Co-chair/Session Chair for a number of conferences. He was the Exemplary Reviewer of several IEEE journals. He was a co-recipient of EAI AICON 2021, IEEE ICICSP 2022, IEEE ICCC 2023, ICICSP 2023, ISCIP 2024 and ICCIA 2024 Best Paper Awards. He has also on the editorial board of several international journals., including Digital Communications and Networks, Signal Processing (Elsevier), IEEE Open Journal of Signal Processing and IEEE Open Journal of the Communications Society.
+Zhen Chen (M'18-SM’23) is currently a Full Professor with the Jinan University, Guangzhou, China. From 2020 to 2023, he was a Lead Engineer with Hong Kong Applied Science and Technology Research Institute, Hong Kong. From 2023 to 2025, he was a Post-Doctoral Research Fellow with the City University of Hong Kong and University of Macao, respectively.
+His current research interests include large language model, integrated radar and communication, channel estimation, AI communications and 5G/6G secure communication. He serves as an Associate Editor for IEEE Open Journal of the Communications Society; Digital Communications and Networks (Elsevier); Signal Processing (Elsevier); Applied Soft Computing (Elsevier) and IEEE Open Journal of Signal Processing. He also served as a Guest Editor for several journals, including IEEE Journal of Selected Topics in Signal Processing. 
 </p>
 
 

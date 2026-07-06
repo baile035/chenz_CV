@@ -15,6 +15,15 @@ Research Awards
 **First prize of natural science, Guangdong Electronics Society, 2024**
 > The Guangdong Electronics Society Award recognizes the research achievements of young scholars in the field of Computer Science in China. I'm one of the two recipients of this award in the subfield of High Performance Computing.
 
+**Guangdong Provincial Electronic Information Industry Science and Technology Award - First Prize for Scientific and Technological Progress, 2023**
+> This award recognizes outstanding scientific and technological achievements that advance the electronic information industry in Guangdong Province. I received the First Prize for contributions to innovative wireless communication technologies and their practical impact on industrial applications.
+
+**International Union of Radio Science (URSI) Young Scientist Award**
+> The URSI Young Scientist Award recognizes promising early-career researchers who have made notable contributions to radio science and related engineering disciplines. This honor acknowledges my research contributions in wireless communications, array signal processing, and 5G/6G communication technologies.
+
+**Huawei "Outstanding Contribution - Achieving Industry" Honor Medal**
+> This honor medal recognizes technical contributions that create significant industrial value and help translate advanced research into practical products and applications. I received this award for contributions to communication technologies with demonstrated impact on industry implementation.
+
 **<a href="https://tc.computer.org/tchpc/home-page/page-of-awards/">IEEE-CS TCHPC Early Career Researchers Award for Excellence in High Performance Computing, 2021</a>**
 > The Award recognizes up to three individuals who have made outstanding, influential, and potentially long-lasting contributions in the field of high-performance computing within five years of receiving their PhD degree as of January 1 of the year of the award.
 
@@ -23,15 +32,6 @@ Research Awards
 
 **IEEE Outstanding Leadership Award, 2019**
 > This award is to recognize my role as Program Co-Chair of the 5th IEEE International Conference on Smart Data (SmartData-2019), Atlanta, USA, 14-17 July 2019.
-
-**Inria Postdoctoral Research Fellowship, 2016**
-
-**Spotlight Article of the issue, 2014**
-> For paper ”Transformation-Based Monetary Cost Optimizations for Workflows in the Cloud” published on IEEE Transactions on Cloud Computing.
-
-**Excellent Service Award, 2014**
-> This award is to recognize my role as Local Co-Chair of the IEEE 6th International Conference on Cloud Computing Technology and Science (CloudCom), Singapore, Dec. 2014.
-
 
 **Best Reviewers Award, Neurocomputing 2018**
 > The award was given to 20 reviewers out of more than 2,000 reviewers during the Neurocomputing 2018.

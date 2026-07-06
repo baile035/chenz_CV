@@ -12,6 +12,7 @@ Journal Editorships
 
 > **<a href="https://signalprocessingsociety.org/publications-resources/ieee-open-journal-signal-processing/editorial-board">Associate Editor</a>** of IEEE Open Journal of Signal Processing (SCI Index, IF=2.9), Started in 2024.<br>
 > **<a href="https://www.comsoc.org/publications/journals/ieee-ojcoms/ieee-open-journal-communications-society-editorial-board">Associate Editor</a>** of IEEE Open Journal of the Communications Society (SCI Index, IF=6.8), Started in 2024.<br>
+> **<a href="https://www.sciencedirect.com/journal/applied-soft-computing/about/editorial-board">Associate Editor</a>** of Elsevier Applied Soft Computing (SCI Index, IF=7.2), Started in 2024.<br>
 > **<a href="https://www.sciencedirect.com/journal/signal-processing/about/editorial-board">Associate Editor</a>** of Elsevier Signal Processing (SCI Index, IF=3.7), Started in 2024.<br>
 > **<a href="https://www.keaipublishing.com/en/journals/digital-communications-and-networks/editorial-board/">Associate Editor</a>** of Digital Communications and Networks (SCI Index, IF=7.6), Started in 2023.<br>
 > **<a href="https://www.hindawi.com/journals/wcmc/editors/">Editor</a>** of Wireless Communications and Mobile Computing (SCI Index, IF=2.336, 2022-2023)<br>
@@ -23,7 +24,14 @@ Journal Editorships
 
 Conference Organizing Committee Memer
 ---
-> **Track Vice-Chair** of the Machine Learning with HPC Track, IEEE/ACM International Conference for High
+> **Conference Program Co-Chair** of IEEE International Conference on Cognitive Systems and Information Processing (**ICCSIP 2025**).<br>
+**Conference Program Co-Chair** of IEEE International Conference on Communications in China (**ICCC 2024**).<br>
+**Conference Program Co-Chair** of IEEE International Conference on Information Communication and Signal Processing (**ICICSP 2024**).<br>
+**Symposium Organizing** of IEEE International Conference on Robotics, Intelligent Control and Artificial Intelligence (**RICAI 2024**).<br>
+**Local Arrangement Chair & Session Chair** of IEEE International Symposium on Microwave, Antenna, 
+Propagation and EMC Technologies for Wireless Communications (**MAPE 2024**).<br>
+**Session Chair** of IEEE International Conference on Communication Technology (**ICCT 2023**).<br>
+**Track Vice-Chair** of the Machine Learning with HPC Track, IEEE/ACM International Conference for High
 Performance Computing, Networking, Storage, and Analysis (**SC 2022**).<br>
 **Student Program Co-Chair** of International Conference on Parallel Processing (**ICPP 2022**).<br>
 **Program Co-Chair** of 6th International Parallel Data Systems Workshop (**PDSW@SC2021**), Nov 2021,
@@ -75,3 +83,8 @@ External/Invited Academic Services
 > External Reviewers for Ph.D. thesis/proposal. Guangzhou University 2022, 2023.<br>
 <!-- Member of China Computer Federation (CCF) Technical Committee on HPC. One of the two members from Shenzhen University (2018 – present).
 -->
+
+
+
+......
+---
